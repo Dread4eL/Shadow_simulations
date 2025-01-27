@@ -1,0 +1,140 @@
+Jan 01 00:10:00.000 [notice] Tor 0.4.6.10 opening new log file.
+Jan 01 00:10:00.000 [warn] Option 'SafeLogging' used more than once; all but the last value will be ignored.
+Jan 01 00:10:00.000 [warn] Option 'SafeLogging' used more than once; all but the last value will be ignored.
+Jan 01 00:10:00.000 [warn] Path for DataDirectory (.) is relative and will resolve to /home/ubuntu/shadow/tor_file/shadow.data/hosts/torclient/.. Is this what you wanted?
+Jan 01 00:10:00.000 [warn] Path for ServerDNSResolvConfFile (../../../conf/shadowresolv.conf) is relative and will resolve to /home/ubuntu/shadow/tor_file/shadow.data/hosts/torclient/../../../conf/shadowresolv.conf. Is this what you wanted?
+Jan 01 00:10:00.000 [warn] ControlPort is open, but no authentication method has been configured.  This means that any program on your computer can reconfigure your Tor.  That's bad!  You should upgrade your Tor controller as soon as possible.
+Jan 01 00:10:00.000 [warn] You have used DirAuthority or AlternateDirAuthority to specify alternate directory authorities in your configuration. This is potentially dangerous: it can make you look different from all other Tor users, and hurt your anonymity. Even if you've specified the same authorities as Tor uses by default, the defaults could change in the future. Be sure you know what you're doing.
+Jan 01 00:10:00.000 [warn] TestingTorNetwork is set. This will make your node almost unusable in the public Tor network, and is therefore only advised if you are building a testing Tor network!
+Jan 01 00:10:00.000 [warn] Fixing permissions on directory .
+Jan 01 00:10:00.000 [warn] Your log may contain sensitive information - you disabled SafeLogging, and you're logging more than "notice". Don't log unless it serves an important reason. Overwrite the log afterwards.
+Jan 01 00:10:00.000 [notice] Tor 0.4.6.10 opening log file.
+Jan 01 00:10:00.000 [warn] Option 'SafeLogging' used more than once; all but the last value will be ignored.
+Jan 01 00:10:00.000 [warn] Option 'SafeLogging' used more than once; all but the last value will be ignored.
+Jan 01 00:10:00.000 [warn] Path for DataDirectory (.) is relative and will resolve to /home/ubuntu/shadow/tor_file/shadow.data/hosts/torclient/.. Is this what you wanted?
+Jan 01 00:10:00.000 [warn] Path for ServerDNSResolvConfFile (../../../conf/shadowresolv.conf) is relative and will resolve to /home/ubuntu/shadow/tor_file/shadow.data/hosts/torclient/../../../conf/shadowresolv.conf. Is this what you wanted?
+Jan 01 00:10:00.000 [warn] ControlPort is open, but no authentication method has been configured.  This means that any program on your computer can reconfigure your Tor.  That's bad!  You should upgrade your Tor controller as soon as possible.
+Jan 01 00:10:00.000 [warn] You have used DirAuthority or AlternateDirAuthority to specify alternate directory authorities in your configuration. This is potentially dangerous: it can make you look different from all other Tor users, and hurt your anonymity. Even if you've specified the same authorities as Tor uses by default, the defaults could change in the future. Be sure you know what you're doing.
+Jan 01 00:10:00.000 [warn] TestingTorNetwork is set. This will make your node almost unusable in the public Tor network, and is therefore only advised if you are building a testing Tor network!
+Jan 01 00:10:00.000 [warn] Fixing permissions on directory .
+Jan 01 00:10:00.000 [warn] Your log may contain sensitive information - you disabled SafeLogging, and you're logging more than "notice". Don't log unless it serves an important reason. Overwrite the log afterwards.
+Jan 01 00:10:00.000 [notice] Tor 0.4.6.10 opening log file.
+Jan 01 00:10:00.000 [warn] Option 'SafeLogging' used more than once; all but the last value will be ignored.
+Jan 01 00:10:00.000 [warn] Option 'SafeLogging' used more than once; all but the last value will be ignored.
+Jan 01 00:10:00.000 [warn] Path for DataDirectory (.) is relative and will resolve to /home/ubuntu/shadow/tor_file/shadow.data/hosts/torclient/.. Is this what you wanted?
+Jan 01 00:10:00.000 [warn] Path for ServerDNSResolvConfFile (../../../conf/shadowresolv.conf) is relative and will resolve to /home/ubuntu/shadow/tor_file/shadow.data/hosts/torclient/../../../conf/shadowresolv.conf. Is this what you wanted?
+Jan 01 00:10:00.000 [warn] ControlPort is open, but no authentication method has been configured.  This means that any program on your computer can reconfigure your Tor.  That's bad!  You should upgrade your Tor controller as soon as possible.
+Jan 01 00:10:00.000 [warn] You have used DirAuthority or AlternateDirAuthority to specify alternate directory authorities in your configuration. This is potentially dangerous: it can make you look different from all other Tor users, and hurt your anonymity. Even if you've specified the same authorities as Tor uses by default, the defaults could change in the future. Be sure you know what you're doing.
+Jan 01 00:10:00.000 [warn] TestingTorNetwork is set. This will make your node almost unusable in the public Tor network, and is therefore only advised if you are building a testing Tor network!
+Jan 01 00:10:00.000 [warn] Fixing permissions on directory .
+Jan 01 00:10:00.000 [warn] Your log may contain sensitive information - you disabled SafeLogging, and you're logging more than "notice". Don't log unless it serves an important reason. Overwrite the log afterwards.
+Jan 01 00:03:00.000 [notice] Tor 0.4.6.10 opening log file.
+Jan 01 00:03:00.000 [warn] Option 'SafeLogging' used more than once; all but the last value will be ignored.
+Jan 01 00:03:00.000 [warn] Option 'SafeLogging' used more than once; all but the last value will be ignored.
+Jan 01 00:03:00.000 [warn] Path for DataDirectory (.) is relative and will resolve to /home/ubuntu/shadow/tor_file/shadow.data/hosts/torclient/.. Is this what you wanted?
+Jan 01 00:03:00.000 [warn] Path for ServerDNSResolvConfFile (../../../conf/shadowresolv.conf) is relative and will resolve to /home/ubuntu/shadow/tor_file/shadow.data/hosts/torclient/../../../conf/shadowresolv.conf. Is this what you wanted?
+Jan 01 00:03:00.000 [warn] ControlPort is open, but no authentication method has been configured.  This means that any program on your computer can reconfigure your Tor.  That's bad!  You should upgrade your Tor controller as soon as possible.
+Jan 01 00:03:00.000 [warn] You have used DirAuthority or AlternateDirAuthority to specify alternate directory authorities in your configuration. This is potentially dangerous: it can make you look different from all other Tor users, and hurt your anonymity. Even if you've specified the same authorities as Tor uses by default, the defaults could change in the future. Be sure you know what you're doing.
+Jan 01 00:03:00.000 [warn] TestingTorNetwork is set. This will make your node almost unusable in the public Tor network, and is therefore only advised if you are building a testing Tor network!
+Jan 01 00:03:00.000 [warn] Fixing permissions on directory .
+Jan 01 00:03:00.000 [warn] Your log may contain sensitive information - you disabled SafeLogging, and you're logging more than "notice". Don't log unless it serves an important reason. Overwrite the log afterwards.
+Jan 01 00:03:00.000 [notice] Tor 0.4.6.10 opening log file.
+Jan 01 00:03:00.000 [warn] Option 'SafeLogging' used more than once; all but the last value will be ignored.
+Jan 01 00:03:00.000 [warn] Option 'SafeLogging' used more than once; all but the last value will be ignored.
+Jan 01 00:03:00.000 [warn] Path for DataDirectory (.) is relative and will resolve to /home/ubuntu/shadow/tor_file/shadow.data/hosts/torclient/.. Is this what you wanted?
+Jan 01 00:03:00.000 [warn] Path for ServerDNSResolvConfFile (../../../conf/shadowresolv.conf) is relative and will resolve to /home/ubuntu/shadow/tor_file/shadow.data/hosts/torclient/../../../conf/shadowresolv.conf. Is this what you wanted?
+Jan 01 00:03:00.000 [warn] ControlPort is open, but no authentication method has been configured.  This means that any program on your computer can reconfigure your Tor.  That's bad!  You should upgrade your Tor controller as soon as possible.
+Jan 01 00:03:00.000 [warn] You have used DirAuthority or AlternateDirAuthority to specify alternate directory authorities in your configuration. This is potentially dangerous: it can make you look different from all other Tor users, and hurt your anonymity. Even if you've specified the same authorities as Tor uses by default, the defaults could change in the future. Be sure you know what you're doing.
+Jan 01 00:03:00.000 [warn] TestingTorNetwork is set. This will make your node almost unusable in the public Tor network, and is therefore only advised if you are building a testing Tor network!
+Jan 01 00:03:00.000 [warn] Fixing permissions on directory .
+Jan 01 00:03:00.000 [warn] Your log may contain sensitive information - you disabled SafeLogging, and you're logging more than "notice". Don't log unless it serves an important reason. Overwrite the log afterwards.
+Jan 01 00:05:00.000 [notice] Tor 0.4.6.10 opening log file.
+Jan 01 00:05:00.000 [warn] Option 'SafeLogging' used more than once; all but the last value will be ignored.
+Jan 01 00:05:00.000 [warn] Option 'SafeLogging' used more than once; all but the last value will be ignored.
+Jan 01 00:05:00.000 [warn] Path for DataDirectory (.) is relative and will resolve to /home/ubuntu/shadow/tor_file/shadow.data/hosts/torclient/.. Is this what you wanted?
+Jan 01 00:05:00.000 [warn] Path for ServerDNSResolvConfFile (../../../conf/shadowresolv.conf) is relative and will resolve to /home/ubuntu/shadow/tor_file/shadow.data/hosts/torclient/../../../conf/shadowresolv.conf. Is this what you wanted?
+Jan 01 00:05:00.000 [warn] ControlPort is open, but no authentication method has been configured.  This means that any program on your computer can reconfigure your Tor.  That's bad!  You should upgrade your Tor controller as soon as possible.
+Jan 01 00:05:00.000 [warn] You have used DirAuthority or AlternateDirAuthority to specify alternate directory authorities in your configuration. This is potentially dangerous: it can make you look different from all other Tor users, and hurt your anonymity. Even if you've specified the same authorities as Tor uses by default, the defaults could change in the future. Be sure you know what you're doing.
+Jan 01 00:05:00.000 [warn] TestingTorNetwork is set. This will make your node almost unusable in the public Tor network, and is therefore only advised if you are building a testing Tor network!
+Jan 01 00:05:00.000 [warn] Fixing permissions on directory .
+Jan 01 00:05:00.000 [warn] Your log may contain sensitive information - you disabled SafeLogging, and you're logging more than "notice". Don't log unless it serves an important reason. Overwrite the log afterwards.
+Jan 01 00:10:00.000 [notice] Tor 0.4.6.10 opening log file.
+Jan 01 00:10:00.000 [warn] Option 'SafeLogging' used more than once; all but the last value will be ignored.
+Jan 01 00:10:00.000 [warn] Option 'SafeLogging' used more than once; all but the last value will be ignored.
+Jan 01 00:10:00.000 [warn] Path for DataDirectory (.) is relative and will resolve to /home/ubuntu/shadow/tor_file/shadow.data/hosts/torclient/.. Is this what you wanted?
+Jan 01 00:10:00.000 [warn] Path for ServerDNSResolvConfFile (../../../conf/shadowresolv.conf) is relative and will resolve to /home/ubuntu/shadow/tor_file/shadow.data/hosts/torclient/../../../conf/shadowresolv.conf. Is this what you wanted?
+Jan 01 00:10:00.000 [warn] ControlPort is open, but no authentication method has been configured.  This means that any program on your computer can reconfigure your Tor.  That's bad!  You should upgrade your Tor controller as soon as possible.
+Jan 01 00:10:00.000 [warn] You have used DirAuthority or AlternateDirAuthority to specify alternate directory authorities in your configuration. This is potentially dangerous: it can make you look different from all other Tor users, and hurt your anonymity. Even if you've specified the same authorities as Tor uses by default, the defaults could change in the future. Be sure you know what you're doing.
+Jan 01 00:10:00.000 [warn] TestingTorNetwork is set. This will make your node almost unusable in the public Tor network, and is therefore only advised if you are building a testing Tor network!
+Jan 01 00:10:00.000 [warn] Fixing permissions on directory .
+Jan 01 00:10:00.000 [warn] Your log may contain sensitive information - you disabled SafeLogging, and you're logging more than "notice". Don't log unless it serves an important reason. Overwrite the log afterwards.
+Jan 01 00:08:00.000 [notice] Tor 0.4.6.10 opening log file.
+Jan 01 00:08:00.000 [warn] Option 'SafeLogging' used more than once; all but the last value will be ignored.
+Jan 01 00:08:00.000 [warn] Option 'SafeLogging' used more than once; all but the last value will be ignored.
+Jan 01 00:08:00.000 [warn] Path for DataDirectory (.) is relative and will resolve to /home/ubuntu/shadow/tor_file/shadow.data/hosts/torclient/.. Is this what you wanted?
+Jan 01 00:08:00.000 [warn] Path for ServerDNSResolvConfFile (../../../conf/shadowresolv.conf) is relative and will resolve to /home/ubuntu/shadow/tor_file/shadow.data/hosts/torclient/../../../conf/shadowresolv.conf. Is this what you wanted?
+Jan 01 00:08:00.000 [warn] ControlPort is open, but no authentication method has been configured.  This means that any program on your computer can reconfigure your Tor.  That's bad!  You should upgrade your Tor controller as soon as possible.
+Jan 01 00:08:00.000 [warn] You have used DirAuthority or AlternateDirAuthority to specify alternate directory authorities in your configuration. This is potentially dangerous: it can make you look different from all other Tor users, and hurt your anonymity. Even if you've specified the same authorities as Tor uses by default, the defaults could change in the future. Be sure you know what you're doing.
+Jan 01 00:08:00.000 [warn] TestingTorNetwork is set. This will make your node almost unusable in the public Tor network, and is therefore only advised if you are building a testing Tor network!
+Jan 01 00:08:00.000 [warn] Fixing permissions on directory .
+Jan 01 00:08:00.000 [warn] Your log may contain sensitive information - you disabled SafeLogging, and you're logging more than "notice". Don't log unless it serves an important reason. Overwrite the log afterwards.
+Jan 01 00:08:00.000 [notice] Tor 0.4.6.10 opening log file.
+Jan 01 00:08:00.000 [warn] Option 'SafeLogging' used more than once; all but the last value will be ignored.
+Jan 01 00:08:00.000 [warn] Option 'SafeLogging' used more than once; all but the last value will be ignored.
+Jan 01 00:08:00.000 [warn] Path for DataDirectory (.) is relative and will resolve to /home/ubuntu/shadow/tor_file/shadow.data/hosts/torclient/.. Is this what you wanted?
+Jan 01 00:08:00.000 [warn] Path for ServerDNSResolvConfFile (../../../conf/shadowresolv.conf) is relative and will resolve to /home/ubuntu/shadow/tor_file/shadow.data/hosts/torclient/../../../conf/shadowresolv.conf. Is this what you wanted?
+Jan 01 00:08:00.000 [warn] ControlPort is open, but no authentication method has been configured.  This means that any program on your computer can reconfigure your Tor.  That's bad!  You should upgrade your Tor controller as soon as possible.
+Jan 01 00:08:00.000 [warn] You have used DirAuthority or AlternateDirAuthority to specify alternate directory authorities in your configuration. This is potentially dangerous: it can make you look different from all other Tor users, and hurt your anonymity. Even if you've specified the same authorities as Tor uses by default, the defaults could change in the future. Be sure you know what you're doing.
+Jan 01 00:08:00.000 [warn] TestingTorNetwork is set. This will make your node almost unusable in the public Tor network, and is therefore only advised if you are building a testing Tor network!
+Jan 01 00:08:00.000 [warn] Fixing permissions on directory .
+Jan 01 00:08:00.000 [warn] Your log may contain sensitive information - you disabled SafeLogging, and you're logging more than "notice". Don't log unless it serves an important reason. Overwrite the log afterwards.
+Jan 01 00:08:00.000 [notice] Tor 0.4.6.10 opening log file.
+Jan 01 00:08:00.000 [warn] Option 'SafeLogging' used more than once; all but the last value will be ignored.
+Jan 01 00:08:00.000 [warn] Option 'SafeLogging' used more than once; all but the last value will be ignored.
+Jan 01 00:08:00.000 [warn] Path for DataDirectory (.) is relative and will resolve to /home/ubuntu/shadow/tor_file/shadow.data/hosts/torclient/.. Is this what you wanted?
+Jan 01 00:08:00.000 [warn] Path for ServerDNSResolvConfFile (../../../conf/shadowresolv.conf) is relative and will resolve to /home/ubuntu/shadow/tor_file/shadow.data/hosts/torclient/../../../conf/shadowresolv.conf. Is this what you wanted?
+Jan 01 00:08:00.000 [warn] ControlPort is open, but no authentication method has been configured.  This means that any program on your computer can reconfigure your Tor.  That's bad!  You should upgrade your Tor controller as soon as possible.
+Jan 01 00:08:00.000 [warn] You have used DirAuthority or AlternateDirAuthority to specify alternate directory authorities in your configuration. This is potentially dangerous: it can make you look different from all other Tor users, and hurt your anonymity. Even if you've specified the same authorities as Tor uses by default, the defaults could change in the future. Be sure you know what you're doing.
+Jan 01 00:08:00.000 [warn] TestingTorNetwork is set. This will make your node almost unusable in the public Tor network, and is therefore only advised if you are building a testing Tor network!
+Jan 01 00:08:00.000 [warn] Fixing permissions on directory .
+Jan 01 00:08:00.000 [warn] Your log may contain sensitive information - you disabled SafeLogging, and you're logging more than "notice". Don't log unless it serves an important reason. Overwrite the log afterwards.
+Jan 01 00:08:00.000 [notice] Tor 0.4.6.10 opening log file.
+Jan 01 00:08:00.000 [warn] Option 'SafeLogging' used more than once; all but the last value will be ignored.
+Jan 01 00:08:00.000 [warn] Option 'SafeLogging' used more than once; all but the last value will be ignored.
+Jan 01 00:08:00.000 [warn] Path for DataDirectory (.) is relative and will resolve to /home/ubuntu/shadow/tor_file/shadow.data/hosts/torclient/.. Is this what you wanted?
+Jan 01 00:08:00.000 [warn] Path for ServerDNSResolvConfFile (../../../conf/shadowresolv.conf) is relative and will resolve to /home/ubuntu/shadow/tor_file/shadow.data/hosts/torclient/../../../conf/shadowresolv.conf. Is this what you wanted?
+Jan 01 00:08:00.000 [warn] ControlPort is open, but no authentication method has been configured.  This means that any program on your computer can reconfigure your Tor.  That's bad!  You should upgrade your Tor controller as soon as possible.
+Jan 01 00:08:00.000 [warn] You have used DirAuthority or AlternateDirAuthority to specify alternate directory authorities in your configuration. This is potentially dangerous: it can make you look different from all other Tor users, and hurt your anonymity. Even if you've specified the same authorities as Tor uses by default, the defaults could change in the future. Be sure you know what you're doing.
+Jan 01 00:08:00.000 [warn] TestingTorNetwork is set. This will make your node almost unusable in the public Tor network, and is therefore only advised if you are building a testing Tor network!
+Jan 01 00:08:00.000 [warn] Fixing permissions on directory .
+Jan 01 00:08:00.000 [warn] Your log may contain sensitive information - you disabled SafeLogging, and you're logging more than "notice". Don't log unless it serves an important reason. Overwrite the log afterwards.
+Jan 01 00:05:00.000 [notice] Tor 0.4.6.10 opening log file.
+Jan 01 00:05:00.000 [warn] Option 'SafeLogging' used more than once; all but the last value will be ignored.
+Jan 01 00:05:00.000 [warn] Option 'SafeLogging' used more than once; all but the last value will be ignored.
+Jan 01 00:05:00.000 [warn] Path for DataDirectory (.) is relative and will resolve to /home/ubuntu/shadow/tor_file/shadow.data/hosts/torclient/.. Is this what you wanted?
+Jan 01 00:05:00.000 [warn] Path for ServerDNSResolvConfFile (../../../conf/shadowresolv.conf) is relative and will resolve to /home/ubuntu/shadow/tor_file/shadow.data/hosts/torclient/../../../conf/shadowresolv.conf. Is this what you wanted?
+Jan 01 00:05:00.000 [warn] ControlPort is open, but no authentication method has been configured.  This means that any program on your computer can reconfigure your Tor.  That's bad!  You should upgrade your Tor controller as soon as possible.
+Jan 01 00:05:00.000 [warn] You have used DirAuthority or AlternateDirAuthority to specify alternate directory authorities in your configuration. This is potentially dangerous: it can make you look different from all other Tor users, and hurt your anonymity. Even if you've specified the same authorities as Tor uses by default, the defaults could change in the future. Be sure you know what you're doing.
+Jan 01 00:05:00.000 [warn] TestingTorNetwork is set. This will make your node almost unusable in the public Tor network, and is therefore only advised if you are building a testing Tor network!
+Jan 01 00:05:00.000 [warn] Fixing permissions on directory .
+Jan 01 00:05:00.000 [warn] Your log may contain sensitive information - you disabled SafeLogging, and you're logging more than "notice". Don't log unless it serves an important reason. Overwrite the log afterwards.
+Jan 01 00:06:00.000 [notice] Tor 0.4.6.10 opening log file.
+Jan 01 00:06:00.000 [warn] Option 'SafeLogging' used more than once; all but the last value will be ignored.
+Jan 01 00:06:00.000 [warn] Option 'SafeLogging' used more than once; all but the last value will be ignored.
+Jan 01 00:06:00.000 [warn] Path for DataDirectory (.) is relative and will resolve to /home/ubuntu/shadow/tor_file/shadow.data/hosts/torclient/.. Is this what you wanted?
+Jan 01 00:06:00.000 [warn] Path for ServerDNSResolvConfFile (../../../conf/shadowresolv.conf) is relative and will resolve to /home/ubuntu/shadow/tor_file/shadow.data/hosts/torclient/../../../conf/shadowresolv.conf. Is this what you wanted?
+Jan 01 00:06:00.000 [warn] ControlPort is open, but no authentication method has been configured.  This means that any program on your computer can reconfigure your Tor.  That's bad!  You should upgrade your Tor controller as soon as possible.
+Jan 01 00:06:00.000 [warn] You have used DirAuthority or AlternateDirAuthority to specify alternate directory authorities in your configuration. This is potentially dangerous: it can make you look different from all other Tor users, and hurt your anonymity. Even if you've specified the same authorities as Tor uses by default, the defaults could change in the future. Be sure you know what you're doing.
+Jan 01 00:06:00.000 [warn] TestingTorNetwork is set. This will make your node almost unusable in the public Tor network, and is therefore only advised if you are building a testing Tor network!
+Jan 01 00:06:00.000 [warn] Fixing permissions on directory .
+Jan 01 00:06:00.000 [warn] Your log may contain sensitive information - you disabled SafeLogging, and you're logging more than "notice". Don't log unless it serves an important reason. Overwrite the log afterwards.
+Jan 01 00:06:00.000 [notice] Tor 0.4.6.10 opening log file.
+Jan 01 00:06:00.000 [warn] Option 'SafeLogging' used more than once; all but the last value will be ignored.
+Jan 01 00:06:00.000 [warn] Option 'SafeLogging' used more than once; all but the last value will be ignored.
+Jan 01 00:06:00.000 [warn] Path for DataDirectory (.) is relative and will resolve to /home/ubuntu/shadow/tor_file/shadow.data/hosts/torclient/.. Is this what you wanted?
+Jan 01 00:06:00.000 [warn] Path for ServerDNSResolvConfFile (../../../conf/shadowresolv.conf) is relative and will resolve to /home/ubuntu/shadow/tor_file/shadow.data/hosts/torclient/../../../conf/shadowresolv.conf. Is this what you wanted?
+Jan 01 00:06:00.000 [warn] ControlPort is open, but no authentication method has been configured.  This means that any program on your computer can reconfigure your Tor.  That's bad!  You should upgrade your Tor controller as soon as possible.
+Jan 01 00:06:00.000 [warn] You have used DirAuthority or AlternateDirAuthority to specify alternate directory authorities in your configuration. This is potentially dangerous: it can make you look different from all other Tor users, and hurt your anonymity. Even if you've specified the same authorities as Tor uses by default, the defaults could change in the future. Be sure you know what you're doing.
+Jan 01 00:06:00.000 [warn] TestingTorNetwork is set. This will make your node almost unusable in the public Tor network, and is therefore only advised if you are building a testing Tor network!
+Jan 01 00:06:00.000 [warn] Fixing permissions on directory .
+Jan 01 00:06:00.000 [warn] Your log may contain sensitive information - you disabled SafeLogging, and you're logging more than "notice". Don't log unless it serves an important reason. Overwrite the log afterwards.

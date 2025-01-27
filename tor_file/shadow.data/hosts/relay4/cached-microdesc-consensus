@@ -1,0 +1,32 @@
+network-status-version 3 microdesc
+vote-status consensus
+consensus-method 31
+valid-after 2000-01-01 00:02:30
+fresh-until 2000-01-01 00:07:30
+valid-until 2000-01-01 00:17:30
+voting-delay 20 20
+client-versions 
+server-versions 
+known-flags Authority Exit Fast Guard HSDir NoEdConsensus Running Stable StaleDesc Sybil V2Dir Valid
+recommended-client-protocols Cons=2 Desc=2 DirCache=2 HSDir=2 HSIntro=4 HSRend=2 Link=4-5 Microdesc=2 Relay=2
+recommended-relay-protocols Cons=2 Desc=2 DirCache=2 HSDir=2 HSIntro=4 HSRend=2 Link=4-5 LinkAuth=3 Microdesc=2 Relay=2
+required-client-protocols Cons=2 Desc=2 Link=4 Microdesc=2 Relay=2
+required-relay-protocols Cons=2 Desc=2 DirCache=2 HSDir=2 HSIntro=4 HSRend=2 Link=4-5 LinkAuth=3 Microdesc=2 Relay=2
+params cc_alg=2
+dir-source 4uthority BA3FDA7CE3B41FBF9BB3615BE6ACD28D883E694B 100.0.0.1 100.0.0.1 9112 9111
+contact https://github.com/shadow/shadow-plugin-tor/issues
+vote-digest 42BDDAC2C714A2AA45C8B88F2B0E2978FE3C6942
+r 4uthority pSyltWxk2GT2rkPlbymsvVcG3aE 2000-01-01 00:01:02 100.0.0.1 9111 9112
+m 5Di/Y7R+5j1Fhdy0GSWZGar8E3xHyJamzdzeXuonto0
+s Authority Fast HSDir Running Stable V2Dir Valid
+v Tor 0.4.6.10
+pr Cons=1-2 Desc=1-2 DirCache=2 FlowCtrl=1 HSDir=2 HSIntro=4-5 HSRend=1-2 Link=1-5 LinkAuth=1,3 Microdesc=1-2 Padding=2 Relay=1-3
+w Bandwidth=0 Unmeasured=1
+directory-footer
+bandwidth-weights Wbd=3333 Wbe=0 Wbg=0 Wbm=10000 Wdb=10000 Web=10000 Wed=3333 Wee=10000 Weg=3333 Wem=10000 Wgb=10000 Wgd=3333 Wgg=10000 Wgm=10000 Wmb=10000 Wmd=3333 Wme=0 Wmg=0 Wmm=10000
+directory-signature sha256 BA3FDA7CE3B41FBF9BB3615BE6ACD28D883E694B B6B52D36DA47A014B5CF65A55EDC62C93523DCC3
+-----BEGIN SIGNATURE-----
+ztdifMv3cMGO8BwXgPQVKYvJpQJs7n+QBbWGDOwpTIIHrrfvqsUgtmBihO1cfn/I
+rr3KynFVE0l1EkTgeS9/ebW31tXkFbD0t9jTc9k5rUpcwOI6PX9A6+o2xZXw9F7Z
+9WQeQorOrZ7QKQZzPJFslK8sOj6+R+AtByi0I4sU9m8=
+-----END SIGNATURE-----

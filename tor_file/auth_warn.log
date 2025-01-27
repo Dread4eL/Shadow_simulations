@@ -1,0 +1,1190 @@
+Jan 01 00:00:01.000 [notice] Tor 0.4.6.10 opening new log file.
+Jan 01 00:00:01.000 [warn] Option 'SafeLogging' used more than once; all but the last value will be ignored.
+Jan 01 00:00:01.000 [warn] Option 'SafeLogging' used more than once; all but the last value will be ignored.
+Jan 01 00:00:01.000 [warn] Path for DataDirectory (.) is relative and will resolve to /home/ubuntu/shadow/tor_file/shadow.data/hosts/4uthority/.. Is this what you wanted?
+Jan 01 00:00:01.000 [warn] Path for ServerDNSResolvConfFile (../../../conf/shadowresolv.conf) is relative and will resolve to /home/ubuntu/shadow/tor_file/shadow.data/hosts/4uthority/../../../conf/shadowresolv.conf. Is this what you wanted?
+Jan 01 00:00:01.000 [warn] ControlPort is open, but no authentication method has been configured.  This means that any program on your computer can reconfigure your Tor.  That's bad!  You should upgrade your Tor controller as soon as possible.
+Jan 01 00:00:01.000 [warn] You have used DirAuthority or AlternateDirAuthority to specify alternate directory authorities in your configuration. This is potentially dangerous: it can make you look different from all other Tor users, and hurt your anonymity. Even if you've specified the same authorities as Tor uses by default, the defaults could change in the future. Be sure you know what you're doing.
+Jan 01 00:00:01.000 [warn] TestingTorNetwork is set. This will make your node almost unusable in the public Tor network, and is therefore only advised if you are building a testing Tor network!
+Jan 01 00:00:01.000 [warn] Fixing permissions on directory .
+Jan 01 00:00:01.000 [warn] Fixing permissions on directory ./keys
+Jan 01 00:00:01.000 [warn] Your log may contain sensitive information - you disabled SafeLogging, and you're logging more than "notice". Don't log unless it serves an important reason. Overwrite the log afterwards.
+Jan 01 00:00:01.000 [warn] Cannot open fingerprint file './approved-routers'. That's ok.
+Jan 01 00:00:01.000 [warn] Configured authority type does not match authority type in DirAuthority list.  Adjusting. (100 v 116)
+Jan 01 00:00:01.000 [warn] Could not open "./sr-state": No such file or directory
+Jan 01 00:00:01.000 [warn] SR: Unable to read SR state file "./sr-state"
+Jan 01 00:00:02.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:02.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:03.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:03.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:04.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:04.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:04.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:04.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:09.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:09.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:14.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:14.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:14.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:14.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:16.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:16.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:17.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:17.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:18.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:18.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:21.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:21.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:26.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:26.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:26.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:26.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:27.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:27.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:32.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:32.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:00.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:00.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:04.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:04.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:09.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:09.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:11.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:11.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:20.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:20.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:26.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:26.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:31.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:31.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:32.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:32.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:34.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:34.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:35.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:35.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:39.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:39.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:41.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:41.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:52.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:52.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:02:14.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:14.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:02:25.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:25.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:02:26.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:26.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:02:27.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:27.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:02:29.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:29.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:04:40.000 [warn] Too much Middle bandwidth on the network to calculate balanced bandwidth-weights. Consider increasing the number of Guard nodes by lowering the requirements.
+Jan 01 00:04:40.000 [warn] Bw Weights error 6 for Case 2b3 (Wmd=0) v10. G=1 M=3 E=1 D=1 T=6 Wmd=0 Wme=0 Wmg=0 Wed=10000 Wee=10000 Wgd=0 Wgg=10000 Wme=0 Wmg=0 weight_scale=10000
+Jan 01 00:04:40.000 [warn] Too much Middle bandwidth on the network to calculate balanced bandwidth-weights. Consider increasing the number of Guard nodes by lowering the requirements.
+Jan 01 00:04:40.000 [warn] Bw Weights error 6 for Case 2b3 (Wmd=0) v10. G=1 M=3 E=1 D=1 T=6 Wmd=0 Wme=0 Wmg=0 Wed=10000 Wee=10000 Wgd=0 Wgg=10000 Wme=0 Wmg=0 weight_scale=10000
+Jan 01 00:00:01.000 [notice] Tor 0.4.6.10 opening log file.
+Jan 01 00:00:01.000 [warn] Option 'SafeLogging' used more than once; all but the last value will be ignored.
+Jan 01 00:00:01.000 [warn] Option 'SafeLogging' used more than once; all but the last value will be ignored.
+Jan 01 00:00:01.000 [warn] Path for DataDirectory (.) is relative and will resolve to /home/ubuntu/shadow/tor_file/shadow.data/hosts/4uthority/.. Is this what you wanted?
+Jan 01 00:00:01.000 [warn] Path for ServerDNSResolvConfFile (../../../conf/shadowresolv.conf) is relative and will resolve to /home/ubuntu/shadow/tor_file/shadow.data/hosts/4uthority/../../../conf/shadowresolv.conf. Is this what you wanted?
+Jan 01 00:00:01.000 [warn] ControlPort is open, but no authentication method has been configured.  This means that any program on your computer can reconfigure your Tor.  That's bad!  You should upgrade your Tor controller as soon as possible.
+Jan 01 00:00:01.000 [warn] You have used DirAuthority or AlternateDirAuthority to specify alternate directory authorities in your configuration. This is potentially dangerous: it can make you look different from all other Tor users, and hurt your anonymity. Even if you've specified the same authorities as Tor uses by default, the defaults could change in the future. Be sure you know what you're doing.
+Jan 01 00:00:01.000 [warn] TestingTorNetwork is set. This will make your node almost unusable in the public Tor network, and is therefore only advised if you are building a testing Tor network!
+Jan 01 00:00:01.000 [warn] Fixing permissions on directory .
+Jan 01 00:00:01.000 [warn] Fixing permissions on directory ./keys
+Jan 01 00:00:01.000 [warn] Your log may contain sensitive information - you disabled SafeLogging, and you're logging more than "notice". Don't log unless it serves an important reason. Overwrite the log afterwards.
+Jan 01 00:00:01.000 [warn] Cannot open fingerprint file './approved-routers'. That's ok.
+Jan 01 00:00:01.000 [warn] Configured authority type does not match authority type in DirAuthority list.  Adjusting. (100 v 116)
+Jan 01 00:00:01.000 [warn] Could not open "./sr-state": No such file or directory
+Jan 01 00:00:01.000 [warn] SR: Unable to read SR state file "./sr-state"
+Jan 01 00:00:02.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:02.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:03.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:03.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:04.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:04.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:04.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:04.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:09.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:09.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:14.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:14.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:14.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:14.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:16.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:16.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:17.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:17.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:18.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:18.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:21.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:21.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:26.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:26.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:26.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:26.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:27.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:27.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:32.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:32.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:00.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:00.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:04.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:04.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:09.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:09.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:11.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:11.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:20.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:20.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:26.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:26.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:31.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:31.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:32.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:32.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:34.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:34.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:35.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:35.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:39.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:39.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:41.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:41.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:52.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:52.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:02:14.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:14.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:02:25.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:25.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:02:26.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:26.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:02:27.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:27.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:02:29.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:29.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:04:40.000 [warn] Too much Middle bandwidth on the network to calculate balanced bandwidth-weights. Consider increasing the number of Guard nodes by lowering the requirements.
+Jan 01 00:04:40.000 [warn] Bw Weights error 6 for Case 2b3 (Wmd=0) v10. G=1 M=3 E=1 D=1 T=6 Wmd=0 Wme=0 Wmg=0 Wed=10000 Wee=10000 Wgd=0 Wgg=10000 Wme=0 Wmg=0 weight_scale=10000
+Jan 01 00:04:40.000 [warn] Too much Middle bandwidth on the network to calculate balanced bandwidth-weights. Consider increasing the number of Guard nodes by lowering the requirements.
+Jan 01 00:04:40.000 [warn] Bw Weights error 6 for Case 2b3 (Wmd=0) v10. G=1 M=3 E=1 D=1 T=6 Wmd=0 Wme=0 Wmg=0 Wed=10000 Wee=10000 Wgd=0 Wgg=10000 Wme=0 Wmg=0 weight_scale=10000
+Jan 01 00:00:01.000 [notice] Tor 0.4.6.10 opening log file.
+Jan 01 00:00:01.000 [warn] Option 'SafeLogging' used more than once; all but the last value will be ignored.
+Jan 01 00:00:01.000 [warn] Option 'SafeLogging' used more than once; all but the last value will be ignored.
+Jan 01 00:00:01.000 [warn] Path for DataDirectory (.) is relative and will resolve to /home/ubuntu/shadow/tor_file/shadow.data/hosts/4uthority/.. Is this what you wanted?
+Jan 01 00:00:01.000 [warn] Path for ServerDNSResolvConfFile (../../../conf/shadowresolv.conf) is relative and will resolve to /home/ubuntu/shadow/tor_file/shadow.data/hosts/4uthority/../../../conf/shadowresolv.conf. Is this what you wanted?
+Jan 01 00:00:01.000 [warn] ControlPort is open, but no authentication method has been configured.  This means that any program on your computer can reconfigure your Tor.  That's bad!  You should upgrade your Tor controller as soon as possible.
+Jan 01 00:00:01.000 [warn] You have used DirAuthority or AlternateDirAuthority to specify alternate directory authorities in your configuration. This is potentially dangerous: it can make you look different from all other Tor users, and hurt your anonymity. Even if you've specified the same authorities as Tor uses by default, the defaults could change in the future. Be sure you know what you're doing.
+Jan 01 00:00:01.000 [warn] TestingTorNetwork is set. This will make your node almost unusable in the public Tor network, and is therefore only advised if you are building a testing Tor network!
+Jan 01 00:00:01.000 [warn] Fixing permissions on directory .
+Jan 01 00:00:01.000 [warn] Fixing permissions on directory ./keys
+Jan 01 00:00:01.000 [warn] Your log may contain sensitive information - you disabled SafeLogging, and you're logging more than "notice". Don't log unless it serves an important reason. Overwrite the log afterwards.
+Jan 01 00:00:01.000 [warn] Cannot open fingerprint file './approved-routers'. That's ok.
+Jan 01 00:00:01.000 [warn] Configured authority type does not match authority type in DirAuthority list.  Adjusting. (100 v 116)
+Jan 01 00:00:01.000 [warn] Could not open "./sr-state": No such file or directory
+Jan 01 00:00:01.000 [warn] SR: Unable to read SR state file "./sr-state"
+Jan 01 00:00:02.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:02.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:03.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:03.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:04.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:04.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:04.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:04.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:09.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:09.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:14.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:14.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:14.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:14.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:16.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:16.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:17.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:17.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:18.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:18.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:21.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:21.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:26.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:26.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:26.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:26.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:27.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:27.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:32.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:32.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:00.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:00.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:04.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:04.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:09.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:09.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:11.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:11.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:20.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:20.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:26.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:26.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:31.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:31.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:32.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:32.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:34.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:34.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:35.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:35.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:39.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:39.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:41.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:41.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:52.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:52.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:02:14.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:14.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:02:25.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:25.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:02:26.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:26.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:02:27.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:27.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:02:29.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:29.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:04:40.000 [warn] Too much Middle bandwidth on the network to calculate balanced bandwidth-weights. Consider increasing the number of Guard nodes by lowering the requirements.
+Jan 01 00:04:40.000 [warn] Bw Weights error 6 for Case 2b3 (Wmd=0) v10. G=1 M=3 E=1 D=1 T=6 Wmd=0 Wme=0 Wmg=0 Wed=10000 Wee=10000 Wgd=0 Wgg=10000 Wme=0 Wmg=0 weight_scale=10000
+Jan 01 00:04:40.000 [warn] Too much Middle bandwidth on the network to calculate balanced bandwidth-weights. Consider increasing the number of Guard nodes by lowering the requirements.
+Jan 01 00:04:40.000 [warn] Bw Weights error 6 for Case 2b3 (Wmd=0) v10. G=1 M=3 E=1 D=1 T=6 Wmd=0 Wme=0 Wmg=0 Wed=10000 Wee=10000 Wgd=0 Wgg=10000 Wme=0 Wmg=0 weight_scale=10000
+Jan 01 00:00:01.000 [notice] Tor 0.4.6.10 opening log file.
+Jan 01 00:00:01.000 [warn] Option 'SafeLogging' used more than once; all but the last value will be ignored.
+Jan 01 00:00:01.000 [warn] Option 'SafeLogging' used more than once; all but the last value will be ignored.
+Jan 01 00:00:01.000 [warn] Path for DataDirectory (.) is relative and will resolve to /home/ubuntu/shadow/tor_file/shadow.data/hosts/4uthority/.. Is this what you wanted?
+Jan 01 00:00:01.000 [warn] Path for ServerDNSResolvConfFile (../../../conf/shadowresolv.conf) is relative and will resolve to /home/ubuntu/shadow/tor_file/shadow.data/hosts/4uthority/../../../conf/shadowresolv.conf. Is this what you wanted?
+Jan 01 00:00:01.000 [warn] ControlPort is open, but no authentication method has been configured.  This means that any program on your computer can reconfigure your Tor.  That's bad!  You should upgrade your Tor controller as soon as possible.
+Jan 01 00:00:01.000 [warn] You have used DirAuthority or AlternateDirAuthority to specify alternate directory authorities in your configuration. This is potentially dangerous: it can make you look different from all other Tor users, and hurt your anonymity. Even if you've specified the same authorities as Tor uses by default, the defaults could change in the future. Be sure you know what you're doing.
+Jan 01 00:00:01.000 [warn] TestingTorNetwork is set. This will make your node almost unusable in the public Tor network, and is therefore only advised if you are building a testing Tor network!
+Jan 01 00:00:01.000 [warn] Fixing permissions on directory .
+Jan 01 00:00:01.000 [warn] Fixing permissions on directory ./keys
+Jan 01 00:00:01.000 [warn] Your log may contain sensitive information - you disabled SafeLogging, and you're logging more than "notice". Don't log unless it serves an important reason. Overwrite the log afterwards.
+Jan 01 00:00:01.000 [warn] Cannot open fingerprint file './approved-routers'. That's ok.
+Jan 01 00:00:01.000 [warn] Configured authority type does not match authority type in DirAuthority list.  Adjusting. (100 v 116)
+Jan 01 00:00:01.000 [warn] Could not open "./sr-state": No such file or directory
+Jan 01 00:00:01.000 [warn] SR: Unable to read SR state file "./sr-state"
+Jan 01 00:00:02.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:02.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:03.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:03.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:04.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:04.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:04.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:04.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:09.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:09.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:14.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:14.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:14.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:14.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:16.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:16.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:17.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:17.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:18.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:18.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:21.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:21.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:26.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:26.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:26.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:26.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:27.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:27.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:32.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:32.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:00.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:00.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:04.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:04.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:09.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:09.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:11.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:11.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:20.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:20.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:26.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:26.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:31.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:31.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:32.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:32.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:34.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:34.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:35.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:35.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:39.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:39.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:41.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:41.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:52.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:52.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:02:14.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:14.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:02:25.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:25.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:02:26.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:26.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:02:27.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:27.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:02:29.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:29.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:04:40.000 [warn] Too much Middle bandwidth on the network to calculate balanced bandwidth-weights. Consider increasing the number of Guard nodes by lowering the requirements.
+Jan 01 00:04:40.000 [warn] Bw Weights error 6 for Case 2b3 (Wmd=0) v10. G=1 M=3 E=1 D=1 T=6 Wmd=0 Wme=0 Wmg=0 Wed=10000 Wee=10000 Wgd=0 Wgg=10000 Wme=0 Wmg=0 weight_scale=10000
+Jan 01 00:04:40.000 [warn] Too much Middle bandwidth on the network to calculate balanced bandwidth-weights. Consider increasing the number of Guard nodes by lowering the requirements.
+Jan 01 00:04:40.000 [warn] Bw Weights error 6 for Case 2b3 (Wmd=0) v10. G=1 M=3 E=1 D=1 T=6 Wmd=0 Wme=0 Wmg=0 Wed=10000 Wee=10000 Wgd=0 Wgg=10000 Wme=0 Wmg=0 weight_scale=10000
+Jan 01 00:00:01.000 [notice] Tor 0.4.6.10 opening log file.
+Jan 01 00:00:01.000 [warn] Option 'SafeLogging' used more than once; all but the last value will be ignored.
+Jan 01 00:00:01.000 [warn] Option 'SafeLogging' used more than once; all but the last value will be ignored.
+Jan 01 00:00:01.000 [warn] Path for DataDirectory (.) is relative and will resolve to /home/ubuntu/shadow/tor_file/shadow.data/hosts/4uthority/.. Is this what you wanted?
+Jan 01 00:00:01.000 [warn] Path for ServerDNSResolvConfFile (../../../conf/shadowresolv.conf) is relative and will resolve to /home/ubuntu/shadow/tor_file/shadow.data/hosts/4uthority/../../../conf/shadowresolv.conf. Is this what you wanted?
+Jan 01 00:00:01.000 [warn] ControlPort is open, but no authentication method has been configured.  This means that any program on your computer can reconfigure your Tor.  That's bad!  You should upgrade your Tor controller as soon as possible.
+Jan 01 00:00:01.000 [warn] You have used DirAuthority or AlternateDirAuthority to specify alternate directory authorities in your configuration. This is potentially dangerous: it can make you look different from all other Tor users, and hurt your anonymity. Even if you've specified the same authorities as Tor uses by default, the defaults could change in the future. Be sure you know what you're doing.
+Jan 01 00:00:01.000 [warn] TestingTorNetwork is set. This will make your node almost unusable in the public Tor network, and is therefore only advised if you are building a testing Tor network!
+Jan 01 00:00:01.000 [warn] Fixing permissions on directory .
+Jan 01 00:00:01.000 [warn] Fixing permissions on directory ./keys
+Jan 01 00:00:01.000 [warn] Your log may contain sensitive information - you disabled SafeLogging, and you're logging more than "notice". Don't log unless it serves an important reason. Overwrite the log afterwards.
+Jan 01 00:00:01.000 [warn] Cannot open fingerprint file './approved-routers'. That's ok.
+Jan 01 00:00:01.000 [warn] Configured authority type does not match authority type in DirAuthority list.  Adjusting. (100 v 116)
+Jan 01 00:00:01.000 [warn] Could not open "./sr-state": No such file or directory
+Jan 01 00:00:01.000 [warn] SR: Unable to read SR state file "./sr-state"
+Jan 01 00:00:02.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:02.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:03.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:03.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:04.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:04.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:04.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:04.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:09.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:09.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:14.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:14.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:14.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:14.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:16.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:16.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:17.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:17.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:18.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:18.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:21.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:21.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:26.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:26.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:26.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:26.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:27.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:27.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:32.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:32.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:00.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:00.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:04.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:04.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:09.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:09.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:11.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:11.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:20.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:20.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:26.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:26.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:31.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:31.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:32.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:32.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:34.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:34.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:35.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:35.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:39.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:39.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:41.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:41.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:52.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:52.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:02:14.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:14.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:02:25.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:25.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:02:26.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:26.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:02:27.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:27.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:02:29.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:29.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:04:40.000 [warn] Too much Middle bandwidth on the network to calculate balanced bandwidth-weights. Consider increasing the number of Guard nodes by lowering the requirements.
+Jan 01 00:04:40.000 [warn] Bw Weights error 6 for Case 2b3 (Wmd=0) v10. G=1 M=3 E=1 D=1 T=6 Wmd=0 Wme=0 Wmg=0 Wed=10000 Wee=10000 Wgd=0 Wgg=10000 Wme=0 Wmg=0 weight_scale=10000
+Jan 01 00:04:40.000 [warn] Too much Middle bandwidth on the network to calculate balanced bandwidth-weights. Consider increasing the number of Guard nodes by lowering the requirements.
+Jan 01 00:04:40.000 [warn] Bw Weights error 6 for Case 2b3 (Wmd=0) v10. G=1 M=3 E=1 D=1 T=6 Wmd=0 Wme=0 Wmg=0 Wed=10000 Wee=10000 Wgd=0 Wgg=10000 Wme=0 Wmg=0 weight_scale=10000
+Jan 01 00:00:01.000 [notice] Tor 0.4.6.10 opening log file.
+Jan 01 00:00:01.000 [warn] Option 'SafeLogging' used more than once; all but the last value will be ignored.
+Jan 01 00:00:01.000 [warn] Option 'SafeLogging' used more than once; all but the last value will be ignored.
+Jan 01 00:00:01.000 [warn] Path for DataDirectory (.) is relative and will resolve to /home/ubuntu/shadow/tor_file/shadow.data/hosts/4uthority/.. Is this what you wanted?
+Jan 01 00:00:01.000 [warn] Path for ServerDNSResolvConfFile (../../../conf/shadowresolv.conf) is relative and will resolve to /home/ubuntu/shadow/tor_file/shadow.data/hosts/4uthority/../../../conf/shadowresolv.conf. Is this what you wanted?
+Jan 01 00:00:01.000 [warn] ControlPort is open, but no authentication method has been configured.  This means that any program on your computer can reconfigure your Tor.  That's bad!  You should upgrade your Tor controller as soon as possible.
+Jan 01 00:00:01.000 [warn] You have used DirAuthority or AlternateDirAuthority to specify alternate directory authorities in your configuration. This is potentially dangerous: it can make you look different from all other Tor users, and hurt your anonymity. Even if you've specified the same authorities as Tor uses by default, the defaults could change in the future. Be sure you know what you're doing.
+Jan 01 00:00:01.000 [warn] TestingTorNetwork is set. This will make your node almost unusable in the public Tor network, and is therefore only advised if you are building a testing Tor network!
+Jan 01 00:00:01.000 [warn] Fixing permissions on directory .
+Jan 01 00:00:01.000 [warn] Fixing permissions on directory ./keys
+Jan 01 00:00:01.000 [warn] Your log may contain sensitive information - you disabled SafeLogging, and you're logging more than "notice". Don't log unless it serves an important reason. Overwrite the log afterwards.
+Jan 01 00:00:01.000 [warn] Cannot open fingerprint file './approved-routers'. That's ok.
+Jan 01 00:00:01.000 [warn] Configured authority type does not match authority type in DirAuthority list.  Adjusting. (100 v 116)
+Jan 01 00:00:01.000 [warn] Could not open "./sr-state": No such file or directory
+Jan 01 00:00:01.000 [warn] SR: Unable to read SR state file "./sr-state"
+Jan 01 00:00:02.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:02.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:03.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:03.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:04.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:04.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:04.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:04.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:09.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:09.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:14.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:14.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:14.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:14.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:16.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:16.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:17.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:17.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:18.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:18.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:21.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:21.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:26.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:26.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:26.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:26.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:27.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:27.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:32.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:32.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:00.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:00.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:04.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:04.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:09.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:09.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:11.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:11.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:20.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:20.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:26.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:26.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:31.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:31.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:32.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:32.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:34.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:34.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:35.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:35.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:39.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:39.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:41.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:41.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:52.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:52.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:02:14.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:14.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:02:25.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:25.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:02:26.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:26.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:02:27.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:27.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:02:29.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:29.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:04:40.000 [warn] Too much Middle bandwidth on the network to calculate balanced bandwidth-weights. Consider increasing the number of Guard nodes by lowering the requirements.
+Jan 01 00:04:40.000 [warn] Bw Weights error 6 for Case 2b3 (Wmd=0) v10. G=1 M=3 E=1 D=1 T=6 Wmd=0 Wme=0 Wmg=0 Wed=10000 Wee=10000 Wgd=0 Wgg=10000 Wme=0 Wmg=0 weight_scale=10000
+Jan 01 00:04:40.000 [warn] Too much Middle bandwidth on the network to calculate balanced bandwidth-weights. Consider increasing the number of Guard nodes by lowering the requirements.
+Jan 01 00:04:40.000 [warn] Bw Weights error 6 for Case 2b3 (Wmd=0) v10. G=1 M=3 E=1 D=1 T=6 Wmd=0 Wme=0 Wmg=0 Wed=10000 Wee=10000 Wgd=0 Wgg=10000 Wme=0 Wmg=0 weight_scale=10000
+Jan 01 00:00:01.000 [notice] Tor 0.4.6.10 opening log file.
+Jan 01 00:00:01.000 [warn] Option 'SafeLogging' used more than once; all but the last value will be ignored.
+Jan 01 00:00:01.000 [warn] Option 'SafeLogging' used more than once; all but the last value will be ignored.
+Jan 01 00:00:01.000 [warn] Path for DataDirectory (.) is relative and will resolve to /home/ubuntu/shadow/tor_file/shadow.data/hosts/4uthority/.. Is this what you wanted?
+Jan 01 00:00:01.000 [warn] Path for ServerDNSResolvConfFile (../../../conf/shadowresolv.conf) is relative and will resolve to /home/ubuntu/shadow/tor_file/shadow.data/hosts/4uthority/../../../conf/shadowresolv.conf. Is this what you wanted?
+Jan 01 00:00:01.000 [warn] ControlPort is open, but no authentication method has been configured.  This means that any program on your computer can reconfigure your Tor.  That's bad!  You should upgrade your Tor controller as soon as possible.
+Jan 01 00:00:01.000 [warn] You have used DirAuthority or AlternateDirAuthority to specify alternate directory authorities in your configuration. This is potentially dangerous: it can make you look different from all other Tor users, and hurt your anonymity. Even if you've specified the same authorities as Tor uses by default, the defaults could change in the future. Be sure you know what you're doing.
+Jan 01 00:00:01.000 [warn] TestingTorNetwork is set. This will make your node almost unusable in the public Tor network, and is therefore only advised if you are building a testing Tor network!
+Jan 01 00:00:01.000 [warn] Fixing permissions on directory .
+Jan 01 00:00:01.000 [warn] Fixing permissions on directory ./keys
+Jan 01 00:00:01.000 [warn] Your log may contain sensitive information - you disabled SafeLogging, and you're logging more than "notice". Don't log unless it serves an important reason. Overwrite the log afterwards.
+Jan 01 00:00:01.000 [warn] Cannot open fingerprint file './approved-routers'. That's ok.
+Jan 01 00:00:01.000 [warn] Configured authority type does not match authority type in DirAuthority list.  Adjusting. (100 v 116)
+Jan 01 00:00:01.000 [warn] Could not open "./sr-state": No such file or directory
+Jan 01 00:00:01.000 [warn] SR: Unable to read SR state file "./sr-state"
+Jan 01 00:00:02.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:02.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:03.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:03.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:04.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:04.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:04.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:04.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:09.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:09.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:14.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:14.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:14.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:14.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:16.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:16.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:17.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:17.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:18.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:18.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:21.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:21.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:26.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:26.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:26.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:26.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:27.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:27.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:32.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:32.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:00.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:00.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:04.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:04.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:09.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:09.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:11.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:11.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:20.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:20.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:26.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:26.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:31.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:31.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:32.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:32.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:34.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:34.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:35.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:35.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:39.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:39.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:41.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:41.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:52.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:52.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:02:14.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:14.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:02:25.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:25.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:02:26.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:26.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:02:27.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:27.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:02:29.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:29.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:04:40.000 [warn] Too much Middle bandwidth on the network to calculate balanced bandwidth-weights. Consider increasing the number of Guard nodes by lowering the requirements.
+Jan 01 00:04:40.000 [warn] Bw Weights error 6 for Case 2b3 (Wmd=0) v10. G=1 M=3 E=1 D=1 T=6 Wmd=0 Wme=0 Wmg=0 Wed=10000 Wee=10000 Wgd=0 Wgg=10000 Wme=0 Wmg=0 weight_scale=10000
+Jan 01 00:04:40.000 [warn] Too much Middle bandwidth on the network to calculate balanced bandwidth-weights. Consider increasing the number of Guard nodes by lowering the requirements.
+Jan 01 00:04:40.000 [warn] Bw Weights error 6 for Case 2b3 (Wmd=0) v10. G=1 M=3 E=1 D=1 T=6 Wmd=0 Wme=0 Wmg=0 Wed=10000 Wee=10000 Wgd=0 Wgg=10000 Wme=0 Wmg=0 weight_scale=10000
+Jan 01 00:00:01.000 [notice] Tor 0.4.6.10 opening log file.
+Jan 01 00:00:01.000 [warn] Option 'SafeLogging' used more than once; all but the last value will be ignored.
+Jan 01 00:00:01.000 [warn] Option 'SafeLogging' used more than once; all but the last value will be ignored.
+Jan 01 00:00:01.000 [warn] Path for DataDirectory (.) is relative and will resolve to /home/ubuntu/shadow/tor_file/shadow.data/hosts/4uthority/.. Is this what you wanted?
+Jan 01 00:00:01.000 [warn] Path for ServerDNSResolvConfFile (../../../conf/shadowresolv.conf) is relative and will resolve to /home/ubuntu/shadow/tor_file/shadow.data/hosts/4uthority/../../../conf/shadowresolv.conf. Is this what you wanted?
+Jan 01 00:00:01.000 [warn] ControlPort is open, but no authentication method has been configured.  This means that any program on your computer can reconfigure your Tor.  That's bad!  You should upgrade your Tor controller as soon as possible.
+Jan 01 00:00:01.000 [warn] You have used DirAuthority or AlternateDirAuthority to specify alternate directory authorities in your configuration. This is potentially dangerous: it can make you look different from all other Tor users, and hurt your anonymity. Even if you've specified the same authorities as Tor uses by default, the defaults could change in the future. Be sure you know what you're doing.
+Jan 01 00:00:01.000 [warn] TestingTorNetwork is set. This will make your node almost unusable in the public Tor network, and is therefore only advised if you are building a testing Tor network!
+Jan 01 00:00:01.000 [warn] Fixing permissions on directory .
+Jan 01 00:00:01.000 [warn] Fixing permissions on directory ./keys
+Jan 01 00:00:01.000 [warn] Your log may contain sensitive information - you disabled SafeLogging, and you're logging more than "notice". Don't log unless it serves an important reason. Overwrite the log afterwards.
+Jan 01 00:00:01.000 [warn] Cannot open fingerprint file './approved-routers'. That's ok.
+Jan 01 00:00:01.000 [warn] Configured authority type does not match authority type in DirAuthority list.  Adjusting. (100 v 116)
+Jan 01 00:00:01.000 [warn] Could not open "./sr-state": No such file or directory
+Jan 01 00:00:01.000 [warn] SR: Unable to read SR state file "./sr-state"
+Jan 01 00:00:02.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:02.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:03.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:03.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:04.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:04.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:04.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:04.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:09.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:09.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:14.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:14.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:14.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:14.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:16.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:16.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:17.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:17.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:18.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:18.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:21.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:21.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:26.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:26.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:26.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:26.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:27.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:27.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:32.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:32.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:00.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:00.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:04.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:04.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:09.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:09.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:11.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:11.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:20.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:20.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:26.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:26.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:31.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:31.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:32.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:32.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:34.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:34.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:35.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:35.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:39.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:39.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:41.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:41.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:52.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:52.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:02:14.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:14.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:02:25.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:25.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:02:26.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:26.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:02:27.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:27.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:02:29.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:29.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:04:40.000 [warn] Too much Middle bandwidth on the network to calculate balanced bandwidth-weights. Consider increasing the number of Guard nodes by lowering the requirements.
+Jan 01 00:04:40.000 [warn] Bw Weights error 6 for Case 2b3 (Wmd=0) v10. G=1 M=3 E=1 D=1 T=6 Wmd=0 Wme=0 Wmg=0 Wed=10000 Wee=10000 Wgd=0 Wgg=10000 Wme=0 Wmg=0 weight_scale=10000
+Jan 01 00:04:40.000 [warn] Too much Middle bandwidth on the network to calculate balanced bandwidth-weights. Consider increasing the number of Guard nodes by lowering the requirements.
+Jan 01 00:04:40.000 [warn] Bw Weights error 6 for Case 2b3 (Wmd=0) v10. G=1 M=3 E=1 D=1 T=6 Wmd=0 Wme=0 Wmg=0 Wed=10000 Wee=10000 Wgd=0 Wgg=10000 Wme=0 Wmg=0 weight_scale=10000
+Jan 01 00:00:01.000 [notice] Tor 0.4.6.10 opening log file.
+Jan 01 00:00:01.000 [warn] Option 'SafeLogging' used more than once; all but the last value will be ignored.
+Jan 01 00:00:01.000 [warn] Option 'SafeLogging' used more than once; all but the last value will be ignored.
+Jan 01 00:00:01.000 [warn] Path for DataDirectory (.) is relative and will resolve to /home/ubuntu/shadow/tor_file/shadow.data/hosts/4uthority/.. Is this what you wanted?
+Jan 01 00:00:01.000 [warn] Path for ServerDNSResolvConfFile (../../../conf/shadowresolv.conf) is relative and will resolve to /home/ubuntu/shadow/tor_file/shadow.data/hosts/4uthority/../../../conf/shadowresolv.conf. Is this what you wanted?
+Jan 01 00:00:01.000 [warn] ControlPort is open, but no authentication method has been configured.  This means that any program on your computer can reconfigure your Tor.  That's bad!  You should upgrade your Tor controller as soon as possible.
+Jan 01 00:00:01.000 [warn] You have used DirAuthority or AlternateDirAuthority to specify alternate directory authorities in your configuration. This is potentially dangerous: it can make you look different from all other Tor users, and hurt your anonymity. Even if you've specified the same authorities as Tor uses by default, the defaults could change in the future. Be sure you know what you're doing.
+Jan 01 00:00:01.000 [warn] TestingTorNetwork is set. This will make your node almost unusable in the public Tor network, and is therefore only advised if you are building a testing Tor network!
+Jan 01 00:00:01.000 [warn] Fixing permissions on directory .
+Jan 01 00:00:01.000 [warn] Fixing permissions on directory ./keys
+Jan 01 00:00:01.000 [warn] Your log may contain sensitive information - you disabled SafeLogging, and you're logging more than "notice". Don't log unless it serves an important reason. Overwrite the log afterwards.
+Jan 01 00:00:01.000 [warn] Cannot open fingerprint file './approved-routers'. That's ok.
+Jan 01 00:00:01.000 [warn] Configured authority type does not match authority type in DirAuthority list.  Adjusting. (100 v 116)
+Jan 01 00:00:01.000 [warn] Could not open "./sr-state": No such file or directory
+Jan 01 00:00:01.000 [warn] SR: Unable to read SR state file "./sr-state"
+Jan 01 00:00:02.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:02.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:03.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:03.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:04.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:04.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:04.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:04.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:09.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:09.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:14.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:14.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:14.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:14.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:16.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:16.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:17.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:17.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:18.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:18.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:21.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:21.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:26.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:26.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:26.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:26.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:27.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:27.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:32.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:32.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:00.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:00.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:04.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:04.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:09.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:09.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:11.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:11.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:20.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:20.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:26.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:26.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:31.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:31.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:32.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:32.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:34.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:34.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:35.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:35.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:39.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:39.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:41.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:41.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:52.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:52.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:02:14.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:14.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:02:25.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:25.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:02:26.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:26.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:02:27.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:27.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:02:29.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:29.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:04:40.000 [warn] Too much Middle bandwidth on the network to calculate balanced bandwidth-weights. Consider increasing the number of Guard nodes by lowering the requirements.
+Jan 01 00:04:40.000 [warn] Bw Weights error 6 for Case 2b3 (Wmd=0) v10. G=1 M=3 E=1 D=1 T=6 Wmd=0 Wme=0 Wmg=0 Wed=10000 Wee=10000 Wgd=0 Wgg=10000 Wme=0 Wmg=0 weight_scale=10000
+Jan 01 00:04:40.000 [warn] Too much Middle bandwidth on the network to calculate balanced bandwidth-weights. Consider increasing the number of Guard nodes by lowering the requirements.
+Jan 01 00:04:40.000 [warn] Bw Weights error 6 for Case 2b3 (Wmd=0) v10. G=1 M=3 E=1 D=1 T=6 Wmd=0 Wme=0 Wmg=0 Wed=10000 Wee=10000 Wgd=0 Wgg=10000 Wme=0 Wmg=0 weight_scale=10000
+Jan 01 00:00:01.000 [notice] Tor 0.4.6.10 opening log file.
+Jan 01 00:00:01.000 [warn] Option 'SafeLogging' used more than once; all but the last value will be ignored.
+Jan 01 00:00:01.000 [warn] Option 'SafeLogging' used more than once; all but the last value will be ignored.
+Jan 01 00:00:01.000 [warn] Path for DataDirectory (.) is relative and will resolve to /home/ubuntu/shadow/tor_file/shadow.data/hosts/4uthority/.. Is this what you wanted?
+Jan 01 00:00:01.000 [warn] Path for ServerDNSResolvConfFile (../../../conf/shadowresolv.conf) is relative and will resolve to /home/ubuntu/shadow/tor_file/shadow.data/hosts/4uthority/../../../conf/shadowresolv.conf. Is this what you wanted?
+Jan 01 00:00:01.000 [warn] ControlPort is open, but no authentication method has been configured.  This means that any program on your computer can reconfigure your Tor.  That's bad!  You should upgrade your Tor controller as soon as possible.
+Jan 01 00:00:01.000 [warn] You have used DirAuthority or AlternateDirAuthority to specify alternate directory authorities in your configuration. This is potentially dangerous: it can make you look different from all other Tor users, and hurt your anonymity. Even if you've specified the same authorities as Tor uses by default, the defaults could change in the future. Be sure you know what you're doing.
+Jan 01 00:00:01.000 [warn] TestingTorNetwork is set. This will make your node almost unusable in the public Tor network, and is therefore only advised if you are building a testing Tor network!
+Jan 01 00:00:01.000 [warn] Fixing permissions on directory .
+Jan 01 00:00:01.000 [warn] Fixing permissions on directory ./keys
+Jan 01 00:00:01.000 [warn] Your log may contain sensitive information - you disabled SafeLogging, and you're logging more than "notice". Don't log unless it serves an important reason. Overwrite the log afterwards.
+Jan 01 00:00:01.000 [warn] Cannot open fingerprint file './approved-routers'. That's ok.
+Jan 01 00:00:01.000 [warn] Configured authority type does not match authority type in DirAuthority list.  Adjusting. (100 v 116)
+Jan 01 00:00:01.000 [warn] Could not open "./sr-state": No such file or directory
+Jan 01 00:00:01.000 [warn] SR: Unable to read SR state file "./sr-state"
+Jan 01 00:00:02.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:02.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:03.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:03.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:04.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:04.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:04.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:04.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:09.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:09.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:14.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:14.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:14.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:14.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:16.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:16.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:17.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:17.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:18.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:18.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:21.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:21.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:26.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:26.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:26.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:26.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:27.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:27.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:32.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:32.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:00.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:00.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:04.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:04.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:09.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:09.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:11.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:11.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:20.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:20.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:26.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:26.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:31.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:31.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:32.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:32.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:34.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:34.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:35.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:35.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:39.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:39.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:41.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:41.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:52.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:52.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:02:14.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:14.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:02:25.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:25.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:02:26.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:26.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:02:27.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:27.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:02:29.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:29.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:04:40.000 [warn] Too much Middle bandwidth on the network to calculate balanced bandwidth-weights. Consider increasing the number of Guard nodes by lowering the requirements.
+Jan 01 00:04:40.000 [warn] Bw Weights error 6 for Case 2b3 (Wmd=0) v10. G=1 M=3 E=1 D=1 T=6 Wmd=0 Wme=0 Wmg=0 Wed=10000 Wee=10000 Wgd=0 Wgg=10000 Wme=0 Wmg=0 weight_scale=10000
+Jan 01 00:04:40.000 [warn] Too much Middle bandwidth on the network to calculate balanced bandwidth-weights. Consider increasing the number of Guard nodes by lowering the requirements.
+Jan 01 00:04:40.000 [warn] Bw Weights error 6 for Case 2b3 (Wmd=0) v10. G=1 M=3 E=1 D=1 T=6 Wmd=0 Wme=0 Wmg=0 Wed=10000 Wee=10000 Wgd=0 Wgg=10000 Wme=0 Wmg=0 weight_scale=10000
+Jan 01 00:00:01.000 [notice] Tor 0.4.6.10 opening log file.
+Jan 01 00:00:01.000 [warn] Option 'SafeLogging' used more than once; all but the last value will be ignored.
+Jan 01 00:00:01.000 [warn] Option 'SafeLogging' used more than once; all but the last value will be ignored.
+Jan 01 00:00:01.000 [warn] Path for DataDirectory (.) is relative and will resolve to /home/ubuntu/shadow/tor_file/shadow.data/hosts/4uthority/.. Is this what you wanted?
+Jan 01 00:00:01.000 [warn] Path for ServerDNSResolvConfFile (../../../conf/shadowresolv.conf) is relative and will resolve to /home/ubuntu/shadow/tor_file/shadow.data/hosts/4uthority/../../../conf/shadowresolv.conf. Is this what you wanted?
+Jan 01 00:00:01.000 [warn] ControlPort is open, but no authentication method has been configured.  This means that any program on your computer can reconfigure your Tor.  That's bad!  You should upgrade your Tor controller as soon as possible.
+Jan 01 00:00:01.000 [warn] You have used DirAuthority or AlternateDirAuthority to specify alternate directory authorities in your configuration. This is potentially dangerous: it can make you look different from all other Tor users, and hurt your anonymity. Even if you've specified the same authorities as Tor uses by default, the defaults could change in the future. Be sure you know what you're doing.
+Jan 01 00:00:01.000 [warn] TestingTorNetwork is set. This will make your node almost unusable in the public Tor network, and is therefore only advised if you are building a testing Tor network!
+Jan 01 00:00:01.000 [warn] Fixing permissions on directory .
+Jan 01 00:00:01.000 [warn] Fixing permissions on directory ./keys
+Jan 01 00:00:01.000 [warn] Your log may contain sensitive information - you disabled SafeLogging, and you're logging more than "notice". Don't log unless it serves an important reason. Overwrite the log afterwards.
+Jan 01 00:00:01.000 [warn] Cannot open fingerprint file './approved-routers'. That's ok.
+Jan 01 00:00:01.000 [warn] Configured authority type does not match authority type in DirAuthority list.  Adjusting. (100 v 116)
+Jan 01 00:00:01.000 [warn] Could not open "./sr-state": No such file or directory
+Jan 01 00:00:01.000 [warn] SR: Unable to read SR state file "./sr-state"
+Jan 01 00:00:02.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:02.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:03.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:03.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:04.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:04.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:04.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:04.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:09.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:09.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:14.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:14.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:14.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:14.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:16.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:16.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:17.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:17.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:18.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:18.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:21.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:21.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:26.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:26.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:26.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:26.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:27.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:27.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:32.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:32.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:00.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:00.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:04.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:04.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:09.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:09.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:11.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:11.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:20.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:20.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:26.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:26.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:31.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:31.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:32.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:32.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:34.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:34.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:35.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:35.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:39.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:39.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:41.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:41.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:52.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:52.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:02:14.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:14.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:02:25.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:25.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:02:26.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:26.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:02:27.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:27.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:02:29.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:29.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:04:40.000 [warn] Too much Middle bandwidth on the network to calculate balanced bandwidth-weights. Consider increasing the number of Guard nodes by lowering the requirements.
+Jan 01 00:04:40.000 [warn] Bw Weights error 6 for Case 2b3 (Wmd=0) v10. G=1 M=3 E=1 D=1 T=6 Wmd=0 Wme=0 Wmg=0 Wed=10000 Wee=10000 Wgd=0 Wgg=10000 Wme=0 Wmg=0 weight_scale=10000
+Jan 01 00:04:40.000 [warn] Too much Middle bandwidth on the network to calculate balanced bandwidth-weights. Consider increasing the number of Guard nodes by lowering the requirements.
+Jan 01 00:04:40.000 [warn] Bw Weights error 6 for Case 2b3 (Wmd=0) v10. G=1 M=3 E=1 D=1 T=6 Wmd=0 Wme=0 Wmg=0 Wed=10000 Wee=10000 Wgd=0 Wgg=10000 Wme=0 Wmg=0 weight_scale=10000
+Jan 01 00:00:01.000 [notice] Tor 0.4.6.10 opening log file.
+Jan 01 00:00:01.000 [warn] Option 'SafeLogging' used more than once; all but the last value will be ignored.
+Jan 01 00:00:01.000 [warn] Option 'SafeLogging' used more than once; all but the last value will be ignored.
+Jan 01 00:00:01.000 [warn] Path for DataDirectory (.) is relative and will resolve to /home/ubuntu/shadow/tor_file/shadow.data/hosts/4uthority/.. Is this what you wanted?
+Jan 01 00:00:01.000 [warn] Path for ServerDNSResolvConfFile (../../../conf/shadowresolv.conf) is relative and will resolve to /home/ubuntu/shadow/tor_file/shadow.data/hosts/4uthority/../../../conf/shadowresolv.conf. Is this what you wanted?
+Jan 01 00:00:01.000 [warn] ControlPort is open, but no authentication method has been configured.  This means that any program on your computer can reconfigure your Tor.  That's bad!  You should upgrade your Tor controller as soon as possible.
+Jan 01 00:00:01.000 [warn] You have used DirAuthority or AlternateDirAuthority to specify alternate directory authorities in your configuration. This is potentially dangerous: it can make you look different from all other Tor users, and hurt your anonymity. Even if you've specified the same authorities as Tor uses by default, the defaults could change in the future. Be sure you know what you're doing.
+Jan 01 00:00:01.000 [warn] TestingTorNetwork is set. This will make your node almost unusable in the public Tor network, and is therefore only advised if you are building a testing Tor network!
+Jan 01 00:00:01.000 [warn] Fixing permissions on directory .
+Jan 01 00:00:01.000 [warn] Fixing permissions on directory ./keys
+Jan 01 00:00:01.000 [warn] Your log may contain sensitive information - you disabled SafeLogging, and you're logging more than "notice". Don't log unless it serves an important reason. Overwrite the log afterwards.
+Jan 01 00:00:01.000 [warn] Cannot open fingerprint file './approved-routers'. That's ok.
+Jan 01 00:00:01.000 [warn] Configured authority type does not match authority type in DirAuthority list.  Adjusting. (100 v 116)
+Jan 01 00:00:01.000 [warn] Could not open "./sr-state": No such file or directory
+Jan 01 00:00:01.000 [warn] SR: Unable to read SR state file "./sr-state"
+Jan 01 00:00:02.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:02.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:03.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:03.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:04.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:04.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:04.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:04.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:09.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:09.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:14.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:14.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:14.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:14.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:16.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:16.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:17.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:17.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:18.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:18.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:21.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:21.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:26.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:26.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:26.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:26.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:27.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:27.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:32.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:32.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:00.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:00.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:04.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:04.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:09.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:09.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:11.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:11.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:20.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:20.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:26.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:26.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:31.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:31.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:32.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:32.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:34.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:34.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:35.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:35.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:39.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:39.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:41.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:41.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:52.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:52.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:02:14.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:14.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:02:25.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:25.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:02:26.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:26.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:02:27.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:27.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:02:29.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:29.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:04:40.000 [warn] Too much Middle bandwidth on the network to calculate balanced bandwidth-weights. Consider increasing the number of Guard nodes by lowering the requirements.
+Jan 01 00:04:40.000 [warn] Bw Weights error 6 for Case 2b3 (Wmd=0) v10. G=1 M=3 E=1 D=1 T=6 Wmd=0 Wme=0 Wmg=0 Wed=10000 Wee=10000 Wgd=0 Wgg=10000 Wme=0 Wmg=0 weight_scale=10000
+Jan 01 00:04:40.000 [warn] Too much Middle bandwidth on the network to calculate balanced bandwidth-weights. Consider increasing the number of Guard nodes by lowering the requirements.
+Jan 01 00:04:40.000 [warn] Bw Weights error 6 for Case 2b3 (Wmd=0) v10. G=1 M=3 E=1 D=1 T=6 Wmd=0 Wme=0 Wmg=0 Wed=10000 Wee=10000 Wgd=0 Wgg=10000 Wme=0 Wmg=0 weight_scale=10000
+Jan 01 00:00:01.000 [notice] Tor 0.4.6.10 opening log file.
+Jan 01 00:00:01.000 [warn] Option 'SafeLogging' used more than once; all but the last value will be ignored.
+Jan 01 00:00:01.000 [warn] Option 'SafeLogging' used more than once; all but the last value will be ignored.
+Jan 01 00:00:01.000 [warn] Path for DataDirectory (.) is relative and will resolve to /home/ubuntu/shadow/tor_file/shadow.data/hosts/4uthority/.. Is this what you wanted?
+Jan 01 00:00:01.000 [warn] Path for ServerDNSResolvConfFile (../../../conf/shadowresolv.conf) is relative and will resolve to /home/ubuntu/shadow/tor_file/shadow.data/hosts/4uthority/../../../conf/shadowresolv.conf. Is this what you wanted?
+Jan 01 00:00:01.000 [warn] ControlPort is open, but no authentication method has been configured.  This means that any program on your computer can reconfigure your Tor.  That's bad!  You should upgrade your Tor controller as soon as possible.
+Jan 01 00:00:01.000 [warn] You have used DirAuthority or AlternateDirAuthority to specify alternate directory authorities in your configuration. This is potentially dangerous: it can make you look different from all other Tor users, and hurt your anonymity. Even if you've specified the same authorities as Tor uses by default, the defaults could change in the future. Be sure you know what you're doing.
+Jan 01 00:00:01.000 [warn] TestingTorNetwork is set. This will make your node almost unusable in the public Tor network, and is therefore only advised if you are building a testing Tor network!
+Jan 01 00:00:01.000 [warn] Fixing permissions on directory .
+Jan 01 00:00:01.000 [warn] Fixing permissions on directory ./keys
+Jan 01 00:00:01.000 [warn] Your log may contain sensitive information - you disabled SafeLogging, and you're logging more than "notice". Don't log unless it serves an important reason. Overwrite the log afterwards.
+Jan 01 00:00:01.000 [warn] Cannot open fingerprint file './approved-routers'. That's ok.
+Jan 01 00:00:01.000 [warn] Configured authority type does not match authority type in DirAuthority list.  Adjusting. (100 v 116)
+Jan 01 00:00:01.000 [warn] Could not open "./sr-state": No such file or directory
+Jan 01 00:00:01.000 [warn] SR: Unable to read SR state file "./sr-state"
+Jan 01 00:00:02.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:02.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:03.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:03.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:04.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:04.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:04.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:04.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:09.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:09.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:14.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:14.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:14.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:14.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:16.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:16.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:17.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:17.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:18.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:18.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:21.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:21.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:26.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:26.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:26.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:26.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:27.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:27.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:32.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:32.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:00.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:00.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:04.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:04.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:09.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:09.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:11.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:11.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:20.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:20.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:26.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:26.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:31.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:31.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:32.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:32.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:34.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:34.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:35.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:35.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:39.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:39.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:41.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:41.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:52.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:52.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:02:14.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:14.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:02:25.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:25.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:02:26.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:26.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:02:27.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:27.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:02:29.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:29.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:04:40.000 [warn] Too much Middle bandwidth on the network to calculate balanced bandwidth-weights. Consider increasing the number of Guard nodes by lowering the requirements.
+Jan 01 00:04:40.000 [warn] Bw Weights error 6 for Case 2b3 (Wmd=0) v10. G=1 M=3 E=1 D=1 T=6 Wmd=0 Wme=0 Wmg=0 Wed=10000 Wee=10000 Wgd=0 Wgg=10000 Wme=0 Wmg=0 weight_scale=10000
+Jan 01 00:04:40.000 [warn] Too much Middle bandwidth on the network to calculate balanced bandwidth-weights. Consider increasing the number of Guard nodes by lowering the requirements.
+Jan 01 00:04:40.000 [warn] Bw Weights error 6 for Case 2b3 (Wmd=0) v10. G=1 M=3 E=1 D=1 T=6 Wmd=0 Wme=0 Wmg=0 Wed=10000 Wee=10000 Wgd=0 Wgg=10000 Wme=0 Wmg=0 weight_scale=10000
+Jan 01 00:00:01.000 [notice] Tor 0.4.6.10 opening log file.
+Jan 01 00:00:01.000 [warn] Option 'SafeLogging' used more than once; all but the last value will be ignored.
+Jan 01 00:00:01.000 [warn] Option 'SafeLogging' used more than once; all but the last value will be ignored.
+Jan 01 00:00:01.000 [warn] Path for DataDirectory (.) is relative and will resolve to /home/ubuntu/shadow/tor_file/shadow.data/hosts/4uthority/.. Is this what you wanted?
+Jan 01 00:00:01.000 [warn] Path for ServerDNSResolvConfFile (../../../conf/shadowresolv.conf) is relative and will resolve to /home/ubuntu/shadow/tor_file/shadow.data/hosts/4uthority/../../../conf/shadowresolv.conf. Is this what you wanted?
+Jan 01 00:00:01.000 [warn] ControlPort is open, but no authentication method has been configured.  This means that any program on your computer can reconfigure your Tor.  That's bad!  You should upgrade your Tor controller as soon as possible.
+Jan 01 00:00:01.000 [warn] You have used DirAuthority or AlternateDirAuthority to specify alternate directory authorities in your configuration. This is potentially dangerous: it can make you look different from all other Tor users, and hurt your anonymity. Even if you've specified the same authorities as Tor uses by default, the defaults could change in the future. Be sure you know what you're doing.
+Jan 01 00:00:01.000 [warn] TestingTorNetwork is set. This will make your node almost unusable in the public Tor network, and is therefore only advised if you are building a testing Tor network!
+Jan 01 00:00:01.000 [warn] Fixing permissions on directory .
+Jan 01 00:00:01.000 [warn] Fixing permissions on directory ./keys
+Jan 01 00:00:01.000 [warn] Your log may contain sensitive information - you disabled SafeLogging, and you're logging more than "notice". Don't log unless it serves an important reason. Overwrite the log afterwards.
+Jan 01 00:00:01.000 [warn] Cannot open fingerprint file './approved-routers'. That's ok.
+Jan 01 00:00:01.000 [warn] Configured authority type does not match authority type in DirAuthority list.  Adjusting. (100 v 116)
+Jan 01 00:00:01.000 [warn] Could not open "./sr-state": No such file or directory
+Jan 01 00:00:01.000 [warn] SR: Unable to read SR state file "./sr-state"
+Jan 01 00:00:02.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:02.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:03.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:03.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:04.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:04.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:04.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:04.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:09.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:09.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:14.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:14.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:14.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:14.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:16.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:16.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:17.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:17.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:18.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:18.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:21.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:21.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:26.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:26.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:26.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:26.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:27.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:27.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:00:32.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:00:32.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:00.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:00.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:04.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:04.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:09.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:09.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:11.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:11.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:20.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:20.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:26.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:26.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:31.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:31.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:32.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:32.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:34.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:34.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:35.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:35.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:39.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:39.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:41.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:41.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:01:52.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:01:52.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:02:14.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:14.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:02:25.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:25.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:02:26.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:26.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:02:27.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:27.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:02:29.000 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:29.000 [warn] We just marked ourself as down. Are your external addresses reachable?
+Jan 01 00:04:40.000 [warn] Too much Middle bandwidth on the network to calculate balanced bandwidth-weights. Consider increasing the number of Guard nodes by lowering the requirements.
+Jan 01 00:04:40.000 [warn] Bw Weights error 6 for Case 2b3 (Wmd=0) v10. G=1 M=3 E=1 D=1 T=6 Wmd=0 Wme=0 Wmg=0 Wed=10000 Wee=10000 Wgd=0 Wgg=10000 Wme=0 Wmg=0 weight_scale=10000
+Jan 01 00:04:40.000 [warn] Too much Middle bandwidth on the network to calculate balanced bandwidth-weights. Consider increasing the number of Guard nodes by lowering the requirements.
+Jan 01 00:04:40.000 [warn] Bw Weights error 6 for Case 2b3 (Wmd=0) v10. G=1 M=3 E=1 D=1 T=6 Wmd=0 Wme=0 Wmg=0 Wed=10000 Wee=10000 Wgd=0 Wgg=10000 Wme=0 Wmg=0 weight_scale=10000

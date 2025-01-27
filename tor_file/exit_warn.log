@@ -1,0 +1,336 @@
+Jan 01 00:02:00.000 [notice] Tor 0.4.6.10 opening new log file.
+Jan 01 00:02:00.000 [warn] Option 'SafeLogging' used more than once; all but the last value will be ignored.
+Jan 01 00:02:00.000 [warn] Option 'SafeLogging' used more than once; all but the last value will be ignored.
+Jan 01 00:02:00.000 [warn] Path for DataDirectory (.) is relative and will resolve to /home/ubuntu/shadow/tor_file/shadow.data/hosts/exit1/.. Is this what you wanted?
+Jan 01 00:02:00.000 [warn] Path for ServerDNSResolvConfFile (../../../conf/shadowresolv.conf) is relative and will resolve to /home/ubuntu/shadow/tor_file/shadow.data/hosts/exit1/../../../conf/shadowresolv.conf. Is this what you wanted?
+Jan 01 00:02:00.000 [warn] ControlPort is open, but no authentication method has been configured.  This means that any program on your computer can reconfigure your Tor.  That's bad!  You should upgrade your Tor controller as soon as possible.
+Jan 01 00:02:00.000 [warn] You have used DirAuthority or AlternateDirAuthority to specify alternate directory authorities in your configuration. This is potentially dangerous: it can make you look different from all other Tor users, and hurt your anonymity. Even if you've specified the same authorities as Tor uses by default, the defaults could change in the future. Be sure you know what you're doing.
+Jan 01 00:02:00.000 [warn] TestingTorNetwork is set. This will make your node almost unusable in the public Tor network, and is therefore only advised if you are building a testing Tor network!
+Jan 01 00:02:00.000 [warn] Fixing permissions on directory .
+Jan 01 00:02:00.000 [warn] Fixing permissions on directory ./keys
+Jan 01 00:02:00.000 [warn] Your log may contain sensitive information - you disabled SafeLogging, and you're logging more than "notice". Don't log unless it serves an important reason. Overwrite the log afterwards.
+Jan 01 00:02:01.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:01.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:02.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:03.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:04.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:07.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:12.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:13.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:15.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:17.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:18.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:22.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:28.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:00.000 [notice] Tor 0.4.6.10 opening log file.
+Jan 01 00:02:00.000 [warn] Option 'SafeLogging' used more than once; all but the last value will be ignored.
+Jan 01 00:02:00.000 [warn] Option 'SafeLogging' used more than once; all but the last value will be ignored.
+Jan 01 00:02:00.000 [warn] Path for DataDirectory (.) is relative and will resolve to /home/ubuntu/shadow/tor_file/shadow.data/hosts/exit1/.. Is this what you wanted?
+Jan 01 00:02:00.000 [warn] Path for ServerDNSResolvConfFile (../../../conf/shadowresolv.conf) is relative and will resolve to /home/ubuntu/shadow/tor_file/shadow.data/hosts/exit1/../../../conf/shadowresolv.conf. Is this what you wanted?
+Jan 01 00:02:00.000 [warn] ControlPort is open, but no authentication method has been configured.  This means that any program on your computer can reconfigure your Tor.  That's bad!  You should upgrade your Tor controller as soon as possible.
+Jan 01 00:02:00.000 [warn] You have used DirAuthority or AlternateDirAuthority to specify alternate directory authorities in your configuration. This is potentially dangerous: it can make you look different from all other Tor users, and hurt your anonymity. Even if you've specified the same authorities as Tor uses by default, the defaults could change in the future. Be sure you know what you're doing.
+Jan 01 00:02:00.000 [warn] TestingTorNetwork is set. This will make your node almost unusable in the public Tor network, and is therefore only advised if you are building a testing Tor network!
+Jan 01 00:02:00.000 [warn] Fixing permissions on directory .
+Jan 01 00:02:00.000 [warn] Fixing permissions on directory ./keys
+Jan 01 00:02:00.000 [warn] Your log may contain sensitive information - you disabled SafeLogging, and you're logging more than "notice". Don't log unless it serves an important reason. Overwrite the log afterwards.
+Jan 01 00:02:01.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:01.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:02.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:03.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:04.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:07.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:12.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:13.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:15.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:17.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:18.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:22.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:28.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:00.000 [notice] Tor 0.4.6.10 opening log file.
+Jan 01 00:02:00.000 [warn] Option 'SafeLogging' used more than once; all but the last value will be ignored.
+Jan 01 00:02:00.000 [warn] Option 'SafeLogging' used more than once; all but the last value will be ignored.
+Jan 01 00:02:00.000 [warn] Path for DataDirectory (.) is relative and will resolve to /home/ubuntu/shadow/tor_file/shadow.data/hosts/exit1/.. Is this what you wanted?
+Jan 01 00:02:00.000 [warn] Path for ServerDNSResolvConfFile (../../../conf/shadowresolv.conf) is relative and will resolve to /home/ubuntu/shadow/tor_file/shadow.data/hosts/exit1/../../../conf/shadowresolv.conf. Is this what you wanted?
+Jan 01 00:02:00.000 [warn] ControlPort is open, but no authentication method has been configured.  This means that any program on your computer can reconfigure your Tor.  That's bad!  You should upgrade your Tor controller as soon as possible.
+Jan 01 00:02:00.000 [warn] You have used DirAuthority or AlternateDirAuthority to specify alternate directory authorities in your configuration. This is potentially dangerous: it can make you look different from all other Tor users, and hurt your anonymity. Even if you've specified the same authorities as Tor uses by default, the defaults could change in the future. Be sure you know what you're doing.
+Jan 01 00:02:00.000 [warn] TestingTorNetwork is set. This will make your node almost unusable in the public Tor network, and is therefore only advised if you are building a testing Tor network!
+Jan 01 00:02:00.000 [warn] Fixing permissions on directory .
+Jan 01 00:02:00.000 [warn] Fixing permissions on directory ./keys
+Jan 01 00:02:00.000 [warn] Your log may contain sensitive information - you disabled SafeLogging, and you're logging more than "notice". Don't log unless it serves an important reason. Overwrite the log afterwards.
+Jan 01 00:02:01.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:01.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:02.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:03.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:04.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:07.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:12.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:13.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:15.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:17.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:18.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:22.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:28.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:00.000 [notice] Tor 0.4.6.10 opening log file.
+Jan 01 00:02:00.000 [warn] Option 'SafeLogging' used more than once; all but the last value will be ignored.
+Jan 01 00:02:00.000 [warn] Option 'SafeLogging' used more than once; all but the last value will be ignored.
+Jan 01 00:02:00.000 [warn] Path for DataDirectory (.) is relative and will resolve to /home/ubuntu/shadow/tor_file/shadow.data/hosts/exit1/.. Is this what you wanted?
+Jan 01 00:02:00.000 [warn] Path for ServerDNSResolvConfFile (../../../conf/shadowresolv.conf) is relative and will resolve to /home/ubuntu/shadow/tor_file/shadow.data/hosts/exit1/../../../conf/shadowresolv.conf. Is this what you wanted?
+Jan 01 00:02:00.000 [warn] ControlPort is open, but no authentication method has been configured.  This means that any program on your computer can reconfigure your Tor.  That's bad!  You should upgrade your Tor controller as soon as possible.
+Jan 01 00:02:00.000 [warn] You have used DirAuthority or AlternateDirAuthority to specify alternate directory authorities in your configuration. This is potentially dangerous: it can make you look different from all other Tor users, and hurt your anonymity. Even if you've specified the same authorities as Tor uses by default, the defaults could change in the future. Be sure you know what you're doing.
+Jan 01 00:02:00.000 [warn] TestingTorNetwork is set. This will make your node almost unusable in the public Tor network, and is therefore only advised if you are building a testing Tor network!
+Jan 01 00:02:00.000 [warn] Fixing permissions on directory .
+Jan 01 00:02:00.000 [warn] Fixing permissions on directory ./keys
+Jan 01 00:02:00.000 [warn] Your log may contain sensitive information - you disabled SafeLogging, and you're logging more than "notice". Don't log unless it serves an important reason. Overwrite the log afterwards.
+Jan 01 00:02:01.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:01.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:02.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:03.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:04.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:07.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:12.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:13.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:15.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:17.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:18.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:22.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:28.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:00.000 [notice] Tor 0.4.6.10 opening log file.
+Jan 01 00:02:00.000 [warn] Option 'SafeLogging' used more than once; all but the last value will be ignored.
+Jan 01 00:02:00.000 [warn] Option 'SafeLogging' used more than once; all but the last value will be ignored.
+Jan 01 00:02:00.000 [warn] Path for DataDirectory (.) is relative and will resolve to /home/ubuntu/shadow/tor_file/shadow.data/hosts/exit1/.. Is this what you wanted?
+Jan 01 00:02:00.000 [warn] Path for ServerDNSResolvConfFile (../../../conf/shadowresolv.conf) is relative and will resolve to /home/ubuntu/shadow/tor_file/shadow.data/hosts/exit1/../../../conf/shadowresolv.conf. Is this what you wanted?
+Jan 01 00:02:00.000 [warn] ControlPort is open, but no authentication method has been configured.  This means that any program on your computer can reconfigure your Tor.  That's bad!  You should upgrade your Tor controller as soon as possible.
+Jan 01 00:02:00.000 [warn] You have used DirAuthority or AlternateDirAuthority to specify alternate directory authorities in your configuration. This is potentially dangerous: it can make you look different from all other Tor users, and hurt your anonymity. Even if you've specified the same authorities as Tor uses by default, the defaults could change in the future. Be sure you know what you're doing.
+Jan 01 00:02:00.000 [warn] TestingTorNetwork is set. This will make your node almost unusable in the public Tor network, and is therefore only advised if you are building a testing Tor network!
+Jan 01 00:02:00.000 [warn] Fixing permissions on directory .
+Jan 01 00:02:00.000 [warn] Fixing permissions on directory ./keys
+Jan 01 00:02:00.000 [warn] Your log may contain sensitive information - you disabled SafeLogging, and you're logging more than "notice". Don't log unless it serves an important reason. Overwrite the log afterwards.
+Jan 01 00:02:01.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:01.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:02.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:03.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:04.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:07.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:12.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:13.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:15.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:17.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:18.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:22.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:28.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:00.000 [notice] Tor 0.4.6.10 opening log file.
+Jan 01 00:02:00.000 [warn] Option 'SafeLogging' used more than once; all but the last value will be ignored.
+Jan 01 00:02:00.000 [warn] Option 'SafeLogging' used more than once; all but the last value will be ignored.
+Jan 01 00:02:00.000 [warn] Path for DataDirectory (.) is relative and will resolve to /home/ubuntu/shadow/tor_file/shadow.data/hosts/exit1/.. Is this what you wanted?
+Jan 01 00:02:00.000 [warn] Path for ServerDNSResolvConfFile (../../../conf/shadowresolv.conf) is relative and will resolve to /home/ubuntu/shadow/tor_file/shadow.data/hosts/exit1/../../../conf/shadowresolv.conf. Is this what you wanted?
+Jan 01 00:02:00.000 [warn] ControlPort is open, but no authentication method has been configured.  This means that any program on your computer can reconfigure your Tor.  That's bad!  You should upgrade your Tor controller as soon as possible.
+Jan 01 00:02:00.000 [warn] You have used DirAuthority or AlternateDirAuthority to specify alternate directory authorities in your configuration. This is potentially dangerous: it can make you look different from all other Tor users, and hurt your anonymity. Even if you've specified the same authorities as Tor uses by default, the defaults could change in the future. Be sure you know what you're doing.
+Jan 01 00:02:00.000 [warn] TestingTorNetwork is set. This will make your node almost unusable in the public Tor network, and is therefore only advised if you are building a testing Tor network!
+Jan 01 00:02:00.000 [warn] Fixing permissions on directory .
+Jan 01 00:02:00.000 [warn] Fixing permissions on directory ./keys
+Jan 01 00:02:00.000 [warn] Your log may contain sensitive information - you disabled SafeLogging, and you're logging more than "notice". Don't log unless it serves an important reason. Overwrite the log afterwards.
+Jan 01 00:02:01.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:01.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:02.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:03.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:04.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:07.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:12.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:13.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:15.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:17.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:18.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:22.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:28.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:00.000 [notice] Tor 0.4.6.10 opening log file.
+Jan 01 00:02:00.000 [warn] Option 'SafeLogging' used more than once; all but the last value will be ignored.
+Jan 01 00:02:00.000 [warn] Option 'SafeLogging' used more than once; all but the last value will be ignored.
+Jan 01 00:02:00.000 [warn] Path for DataDirectory (.) is relative and will resolve to /home/ubuntu/shadow/tor_file/shadow.data/hosts/exit1/.. Is this what you wanted?
+Jan 01 00:02:00.000 [warn] Path for ServerDNSResolvConfFile (../../../conf/shadowresolv.conf) is relative and will resolve to /home/ubuntu/shadow/tor_file/shadow.data/hosts/exit1/../../../conf/shadowresolv.conf. Is this what you wanted?
+Jan 01 00:02:00.000 [warn] ControlPort is open, but no authentication method has been configured.  This means that any program on your computer can reconfigure your Tor.  That's bad!  You should upgrade your Tor controller as soon as possible.
+Jan 01 00:02:00.000 [warn] You have used DirAuthority or AlternateDirAuthority to specify alternate directory authorities in your configuration. This is potentially dangerous: it can make you look different from all other Tor users, and hurt your anonymity. Even if you've specified the same authorities as Tor uses by default, the defaults could change in the future. Be sure you know what you're doing.
+Jan 01 00:02:00.000 [warn] TestingTorNetwork is set. This will make your node almost unusable in the public Tor network, and is therefore only advised if you are building a testing Tor network!
+Jan 01 00:02:00.000 [warn] Fixing permissions on directory .
+Jan 01 00:02:00.000 [warn] Fixing permissions on directory ./keys
+Jan 01 00:02:00.000 [warn] Your log may contain sensitive information - you disabled SafeLogging, and you're logging more than "notice". Don't log unless it serves an important reason. Overwrite the log afterwards.
+Jan 01 00:02:01.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:01.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:02.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:03.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:04.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:07.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:12.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:13.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:15.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:17.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:18.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:22.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:28.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:00.000 [notice] Tor 0.4.6.10 opening log file.
+Jan 01 00:02:00.000 [warn] Option 'SafeLogging' used more than once; all but the last value will be ignored.
+Jan 01 00:02:00.000 [warn] Option 'SafeLogging' used more than once; all but the last value will be ignored.
+Jan 01 00:02:00.000 [warn] Path for DataDirectory (.) is relative and will resolve to /home/ubuntu/shadow/tor_file/shadow.data/hosts/exit1/.. Is this what you wanted?
+Jan 01 00:02:00.000 [warn] Path for ServerDNSResolvConfFile (../../../conf/shadowresolv.conf) is relative and will resolve to /home/ubuntu/shadow/tor_file/shadow.data/hosts/exit1/../../../conf/shadowresolv.conf. Is this what you wanted?
+Jan 01 00:02:00.000 [warn] ControlPort is open, but no authentication method has been configured.  This means that any program on your computer can reconfigure your Tor.  That's bad!  You should upgrade your Tor controller as soon as possible.
+Jan 01 00:02:00.000 [warn] You have used DirAuthority or AlternateDirAuthority to specify alternate directory authorities in your configuration. This is potentially dangerous: it can make you look different from all other Tor users, and hurt your anonymity. Even if you've specified the same authorities as Tor uses by default, the defaults could change in the future. Be sure you know what you're doing.
+Jan 01 00:02:00.000 [warn] TestingTorNetwork is set. This will make your node almost unusable in the public Tor network, and is therefore only advised if you are building a testing Tor network!
+Jan 01 00:02:00.000 [warn] Fixing permissions on directory .
+Jan 01 00:02:00.000 [warn] Fixing permissions on directory ./keys
+Jan 01 00:02:00.000 [warn] Your log may contain sensitive information - you disabled SafeLogging, and you're logging more than "notice". Don't log unless it serves an important reason. Overwrite the log afterwards.
+Jan 01 00:02:01.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:01.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:02.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:03.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:04.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:07.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:12.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:13.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:15.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:17.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:18.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:22.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:28.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:00.000 [notice] Tor 0.4.6.10 opening log file.
+Jan 01 00:02:00.000 [warn] Option 'SafeLogging' used more than once; all but the last value will be ignored.
+Jan 01 00:02:00.000 [warn] Option 'SafeLogging' used more than once; all but the last value will be ignored.
+Jan 01 00:02:00.000 [warn] Path for DataDirectory (.) is relative and will resolve to /home/ubuntu/shadow/tor_file/shadow.data/hosts/exit1/.. Is this what you wanted?
+Jan 01 00:02:00.000 [warn] Path for ServerDNSResolvConfFile (../../../conf/shadowresolv.conf) is relative and will resolve to /home/ubuntu/shadow/tor_file/shadow.data/hosts/exit1/../../../conf/shadowresolv.conf. Is this what you wanted?
+Jan 01 00:02:00.000 [warn] ControlPort is open, but no authentication method has been configured.  This means that any program on your computer can reconfigure your Tor.  That's bad!  You should upgrade your Tor controller as soon as possible.
+Jan 01 00:02:00.000 [warn] You have used DirAuthority or AlternateDirAuthority to specify alternate directory authorities in your configuration. This is potentially dangerous: it can make you look different from all other Tor users, and hurt your anonymity. Even if you've specified the same authorities as Tor uses by default, the defaults could change in the future. Be sure you know what you're doing.
+Jan 01 00:02:00.000 [warn] TestingTorNetwork is set. This will make your node almost unusable in the public Tor network, and is therefore only advised if you are building a testing Tor network!
+Jan 01 00:02:00.000 [warn] Fixing permissions on directory .
+Jan 01 00:02:00.000 [warn] Fixing permissions on directory ./keys
+Jan 01 00:02:00.000 [warn] Your log may contain sensitive information - you disabled SafeLogging, and you're logging more than "notice". Don't log unless it serves an important reason. Overwrite the log afterwards.
+Jan 01 00:02:01.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:01.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:02.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:03.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:04.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:07.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:12.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:13.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:15.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:17.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:18.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:22.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:28.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:00.000 [notice] Tor 0.4.6.10 opening log file.
+Jan 01 00:02:00.000 [warn] Option 'SafeLogging' used more than once; all but the last value will be ignored.
+Jan 01 00:02:00.000 [warn] Option 'SafeLogging' used more than once; all but the last value will be ignored.
+Jan 01 00:02:00.000 [warn] Path for DataDirectory (.) is relative and will resolve to /home/ubuntu/shadow/tor_file/shadow.data/hosts/exit1/.. Is this what you wanted?
+Jan 01 00:02:00.000 [warn] Path for ServerDNSResolvConfFile (../../../conf/shadowresolv.conf) is relative and will resolve to /home/ubuntu/shadow/tor_file/shadow.data/hosts/exit1/../../../conf/shadowresolv.conf. Is this what you wanted?
+Jan 01 00:02:00.000 [warn] ControlPort is open, but no authentication method has been configured.  This means that any program on your computer can reconfigure your Tor.  That's bad!  You should upgrade your Tor controller as soon as possible.
+Jan 01 00:02:00.000 [warn] You have used DirAuthority or AlternateDirAuthority to specify alternate directory authorities in your configuration. This is potentially dangerous: it can make you look different from all other Tor users, and hurt your anonymity. Even if you've specified the same authorities as Tor uses by default, the defaults could change in the future. Be sure you know what you're doing.
+Jan 01 00:02:00.000 [warn] TestingTorNetwork is set. This will make your node almost unusable in the public Tor network, and is therefore only advised if you are building a testing Tor network!
+Jan 01 00:02:00.000 [warn] Fixing permissions on directory .
+Jan 01 00:02:00.000 [warn] Fixing permissions on directory ./keys
+Jan 01 00:02:00.000 [warn] Your log may contain sensitive information - you disabled SafeLogging, and you're logging more than "notice". Don't log unless it serves an important reason. Overwrite the log afterwards.
+Jan 01 00:02:01.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:01.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:02.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:03.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:04.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:07.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:12.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:13.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:15.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:17.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:18.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:22.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:28.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:00.000 [notice] Tor 0.4.6.10 opening log file.
+Jan 01 00:02:00.000 [warn] Option 'SafeLogging' used more than once; all but the last value will be ignored.
+Jan 01 00:02:00.000 [warn] Option 'SafeLogging' used more than once; all but the last value will be ignored.
+Jan 01 00:02:00.000 [warn] Path for DataDirectory (.) is relative and will resolve to /home/ubuntu/shadow/tor_file/shadow.data/hosts/exit1/.. Is this what you wanted?
+Jan 01 00:02:00.000 [warn] Path for ServerDNSResolvConfFile (../../../conf/shadowresolv.conf) is relative and will resolve to /home/ubuntu/shadow/tor_file/shadow.data/hosts/exit1/../../../conf/shadowresolv.conf. Is this what you wanted?
+Jan 01 00:02:00.000 [warn] ControlPort is open, but no authentication method has been configured.  This means that any program on your computer can reconfigure your Tor.  That's bad!  You should upgrade your Tor controller as soon as possible.
+Jan 01 00:02:00.000 [warn] You have used DirAuthority or AlternateDirAuthority to specify alternate directory authorities in your configuration. This is potentially dangerous: it can make you look different from all other Tor users, and hurt your anonymity. Even if you've specified the same authorities as Tor uses by default, the defaults could change in the future. Be sure you know what you're doing.
+Jan 01 00:02:00.000 [warn] TestingTorNetwork is set. This will make your node almost unusable in the public Tor network, and is therefore only advised if you are building a testing Tor network!
+Jan 01 00:02:00.000 [warn] Fixing permissions on directory .
+Jan 01 00:02:00.000 [warn] Fixing permissions on directory ./keys
+Jan 01 00:02:00.000 [warn] Your log may contain sensitive information - you disabled SafeLogging, and you're logging more than "notice". Don't log unless it serves an important reason. Overwrite the log afterwards.
+Jan 01 00:02:01.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:01.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:02.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:03.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:04.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:07.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:12.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:13.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:15.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:17.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:18.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:22.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:28.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:00.000 [notice] Tor 0.4.6.10 opening log file.
+Jan 01 00:02:00.000 [warn] Option 'SafeLogging' used more than once; all but the last value will be ignored.
+Jan 01 00:02:00.000 [warn] Option 'SafeLogging' used more than once; all but the last value will be ignored.
+Jan 01 00:02:00.000 [warn] Path for DataDirectory (.) is relative and will resolve to /home/ubuntu/shadow/tor_file/shadow.data/hosts/exit1/.. Is this what you wanted?
+Jan 01 00:02:00.000 [warn] Path for ServerDNSResolvConfFile (../../../conf/shadowresolv.conf) is relative and will resolve to /home/ubuntu/shadow/tor_file/shadow.data/hosts/exit1/../../../conf/shadowresolv.conf. Is this what you wanted?
+Jan 01 00:02:00.000 [warn] ControlPort is open, but no authentication method has been configured.  This means that any program on your computer can reconfigure your Tor.  That's bad!  You should upgrade your Tor controller as soon as possible.
+Jan 01 00:02:00.000 [warn] You have used DirAuthority or AlternateDirAuthority to specify alternate directory authorities in your configuration. This is potentially dangerous: it can make you look different from all other Tor users, and hurt your anonymity. Even if you've specified the same authorities as Tor uses by default, the defaults could change in the future. Be sure you know what you're doing.
+Jan 01 00:02:00.000 [warn] TestingTorNetwork is set. This will make your node almost unusable in the public Tor network, and is therefore only advised if you are building a testing Tor network!
+Jan 01 00:02:00.000 [warn] Fixing permissions on directory .
+Jan 01 00:02:00.000 [warn] Fixing permissions on directory ./keys
+Jan 01 00:02:00.000 [warn] Your log may contain sensitive information - you disabled SafeLogging, and you're logging more than "notice". Don't log unless it serves an important reason. Overwrite the log afterwards.
+Jan 01 00:02:01.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:01.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:02.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:03.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:04.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:07.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:12.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:13.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:15.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:17.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:18.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:22.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:28.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:00.000 [notice] Tor 0.4.6.10 opening log file.
+Jan 01 00:02:00.000 [warn] Option 'SafeLogging' used more than once; all but the last value will be ignored.
+Jan 01 00:02:00.000 [warn] Option 'SafeLogging' used more than once; all but the last value will be ignored.
+Jan 01 00:02:00.000 [warn] Path for DataDirectory (.) is relative and will resolve to /home/ubuntu/shadow/tor_file/shadow.data/hosts/exit1/.. Is this what you wanted?
+Jan 01 00:02:00.000 [warn] Path for ServerDNSResolvConfFile (../../../conf/shadowresolv.conf) is relative and will resolve to /home/ubuntu/shadow/tor_file/shadow.data/hosts/exit1/../../../conf/shadowresolv.conf. Is this what you wanted?
+Jan 01 00:02:00.000 [warn] ControlPort is open, but no authentication method has been configured.  This means that any program on your computer can reconfigure your Tor.  That's bad!  You should upgrade your Tor controller as soon as possible.
+Jan 01 00:02:00.000 [warn] You have used DirAuthority or AlternateDirAuthority to specify alternate directory authorities in your configuration. This is potentially dangerous: it can make you look different from all other Tor users, and hurt your anonymity. Even if you've specified the same authorities as Tor uses by default, the defaults could change in the future. Be sure you know what you're doing.
+Jan 01 00:02:00.000 [warn] TestingTorNetwork is set. This will make your node almost unusable in the public Tor network, and is therefore only advised if you are building a testing Tor network!
+Jan 01 00:02:00.000 [warn] Fixing permissions on directory .
+Jan 01 00:02:00.000 [warn] Fixing permissions on directory ./keys
+Jan 01 00:02:00.000 [warn] Your log may contain sensitive information - you disabled SafeLogging, and you're logging more than "notice". Don't log unless it serves an important reason. Overwrite the log afterwards.
+Jan 01 00:02:01.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:01.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:02.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:03.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:04.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:07.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:12.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:13.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:15.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:17.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:18.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:22.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:28.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:00.000 [notice] Tor 0.4.6.10 opening log file.
+Jan 01 00:02:00.000 [warn] Option 'SafeLogging' used more than once; all but the last value will be ignored.
+Jan 01 00:02:00.000 [warn] Option 'SafeLogging' used more than once; all but the last value will be ignored.
+Jan 01 00:02:00.000 [warn] Path for DataDirectory (.) is relative and will resolve to /home/ubuntu/shadow/tor_file/shadow.data/hosts/exit1/.. Is this what you wanted?
+Jan 01 00:02:00.000 [warn] Path for ServerDNSResolvConfFile (../../../conf/shadowresolv.conf) is relative and will resolve to /home/ubuntu/shadow/tor_file/shadow.data/hosts/exit1/../../../conf/shadowresolv.conf. Is this what you wanted?
+Jan 01 00:02:00.000 [warn] ControlPort is open, but no authentication method has been configured.  This means that any program on your computer can reconfigure your Tor.  That's bad!  You should upgrade your Tor controller as soon as possible.
+Jan 01 00:02:00.000 [warn] You have used DirAuthority or AlternateDirAuthority to specify alternate directory authorities in your configuration. This is potentially dangerous: it can make you look different from all other Tor users, and hurt your anonymity. Even if you've specified the same authorities as Tor uses by default, the defaults could change in the future. Be sure you know what you're doing.
+Jan 01 00:02:00.000 [warn] TestingTorNetwork is set. This will make your node almost unusable in the public Tor network, and is therefore only advised if you are building a testing Tor network!
+Jan 01 00:02:00.000 [warn] Fixing permissions on directory .
+Jan 01 00:02:00.000 [warn] Fixing permissions on directory ./keys
+Jan 01 00:02:00.000 [warn] Your log may contain sensitive information - you disabled SafeLogging, and you're logging more than "notice". Don't log unless it serves an important reason. Overwrite the log afterwards.
+Jan 01 00:02:01.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:01.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:02.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:03.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:04.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:07.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:12.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:13.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:15.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:17.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:18.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:22.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.
+Jan 01 00:02:28.200 [warn] Received http status code 404 ("Not found") from server 100.0.0.1:9112 while fetching consensus directory.

@@ -1,0 +1,7 @@
+ORPort 0
+DirPort 0
+ClientOnly 1
+SocksPort 127.0.0.1:9000
+Log "notice file /home/ubuntu/shadow/tor_file/client_notice.log"
+Log "warn file /home/ubuntu/shadow/tor_file/client_warn.log"
+SafeLogging 0   # Log full request details (disable anonymized logging)
