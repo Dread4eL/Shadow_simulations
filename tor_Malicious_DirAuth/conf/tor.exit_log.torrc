@@ -1,0 +1,4 @@
+ExitPolicy "accept *:*"
+Log "notice file ./exit_notice.log"
+Log "warn file ./exit_warn.log"
+SafeLogging 0   # Log full request details (disable anonymized logging)

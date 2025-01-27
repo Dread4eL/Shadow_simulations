@@ -1,0 +1,3 @@
+In this attack I will only modify the parameters of my Directory authority to try to gain information 
+To influence the path seleciton, we can modify the file v3bw in ./shadow.data.template/hosts/torflowauthority/v3bw
+
