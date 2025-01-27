@@ -1,0 +1,1 @@
+tor --PublishServerDescriptor 0 --orport auto --list-fingerprint --datadirectory ./shadow.data.template/hosts/exit3/ --Log "err stdout" --Nickname exit3  #generate fingerprint and keys for nodes
