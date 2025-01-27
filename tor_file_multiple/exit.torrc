@@ -1,0 +1,3 @@
+ExitPolicy "accept *:*"
+Nickname exit3
+

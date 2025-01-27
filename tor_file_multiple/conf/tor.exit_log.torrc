@@ -1,0 +1,4 @@
+ExitPolicy "accept *:*"
+Log "notice file /home/ubuntu/shadow/tor_file_multiple/exit_notice.log"
+Log "warn file /home/ubuntu/shadow/tor_file_multiple/exit_warn.log"
+SafeLogging 0   # Log full request details (disable anonymized logging)
